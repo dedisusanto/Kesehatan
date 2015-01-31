@@ -1,0 +1,65 @@
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/LinearLayout1"
+    android:layout_width="match_parent"
+    android:layout_height="fill_parent"
+    
+    android:gravity="center_vertical"
+    android:orientation="vertical"
+    android:paddingBottom="@dimen/activity_vertical_margin"
+    android:paddingLeft="@dimen/activity_horizontal_margin"
+    android:paddingRight="@dimen/activity_horizontal_margin"
+    android:paddingTop="@dimen/activity_vertical_margin"
+    tools:context="id.STIKOM.kesehatan.CacarActivity" >
+
+    <ScrollView
+        android:id="@+id/scrollView1"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content" >
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:orientation="vertical" >
+
+            <TextView
+                android:id="@+id/txtketeranganpenyakit"
+                android:layout_width="fill_parent"
+                android:layout_height="fill_parent"
+                android:lineSpacingExtra="2dp"
+                android:text="\n \n Obat Untuk Cacar Air
+Penyakit cacar air disebabkan oleh virus yang menyerang tubuh kemudian menginfeksi bagian tubuh dan ditunjukkan dengan gejala timbulnya bengkak - bengkak pada tubuh yang di dalamnnya terdapat air. Bintil - bintil tersebut akan terasa gatal terutama jika tubuh berkeringat.
+Penyakit cacar air merupakan penyakit yang menular karena disebabkan oleh virus tetapi jika sudah pernah terserang maka tubuh sudah menjadi kebal terhadap seragan infeksi virus ini. Masa inkubasi virus ini adalah selama dua minggu.
+Berikut adalah resep obat alami secara tradisional untuk penyakit cacar air anda tersebut :
+Resep obat alami secara tradisional untuk penyakit Cacar air ;
+\n a. Bahan - bahan alami untuk Resep obat alami secara tradisional untuk penyakitCacar air
+- Daun jarak sebanyak lima lembar
+- air untuk mandi secukupnya
+\n b. Cara pembuatan Resep obat alami secara tradisional untuk penyakit Cacar air
+Cuci daun jarak hingga bersih kemudian rebus dengan air dalam satu panci. Aduk - aduk hingga daun jarak menjadi lunak dan hancur. Air rebusan tersebut dicampur dengan air mandi hingga suhunya cukup hangat.
+\n c. Cara pemakaian Resep obat alami secara tradisional untuk penyakit Cacar air
+Mandilah dengan menggunakan cara diatas sebanyak 2 kali sehari sampai penyakit cacar air menjadi kering.
+Tips menanggulangi penyakit cacar air :
+\n 1. Mandi dengan ramuan diatas sebanyak 2 kali sehari, lebih baik 3 kali sehari.
+\n 2. Hindari bintil - bintil menjadi pecah, jika pecah segera bersihkan.
+\n 3. Jangan menggaruk bintil - bintil cacar air karena dapat menjadi pecah.
+\n 4. Pakailah bedak jika resep diatas tidak mempu menghilangkan rasa gatal
+Bila menderita penyakit ini maka yang sebaiknya dilakukan adalah:
+Istirahat. Selain untuk memperbaiki daya tahan tubuh, juga untuk mencegah penularan penyakit.
+Menjaga nutrisi yang cukup, Menjaga kebersihan diri:
+\n o Mandi, merupakan anggapan yang salah bila penderita cacar air tidak boleh mandi. Mandi akan membersihkan tubuh dari sel-sel kulit mati sehingga mencegah infeksi bakteri.
+\n o Air mandi bisa ditambahkan larutan antiseptic seperti 
+Pencegahan:
+Imunisasi aktif di atas 10 tahun kecuali atas permintaan dapat diberikan pada usia > 12 bulan.
+Imunisasi pasif diberikan pada kasus daya tahan buruk.
+Catatan Khusus Penyakit Cacar Air
+Cacar Air pada wanita hamil 3 bulan pertama dapat menimbulkan kelainan bawaan (konginetal), sedangkan pada wanita yang terkena cacar air beberapa hari menjelang kelahiran dapat menyebabkan varicella pada bayinya. Kejadian infeksi cacar air saat hamil sekitar 0,05-0,07 %. Jumlahnya kecil karena sebagian besar perempuan subur sudah memiliki kekebalan terhadap cacar air. Cacar air yang terjadi saat 3 bulan pertama kehamilan terutama minggu ke 8-12, memiliki risiko sindrom varisela kongenital sebesar 2,2 persen, yaitu sindrom cacat lahir pada bayi.
+Seseorang saat pertama kali terkena virus ini akan menampilkan gejala - gejala cacar air dan setelah itu, virus ini akan berdiam di dalam tubuh sehingga kita memiliki ketahanan terhadap virus tersebut. Jika virus ini aktif kembali maka virus ini muncul dengan gejala yang sedikit berbeda dari cacar air dan disebut herpes zoster dimana secara umum gejala yang terjadi adalah rasa nyeri hebat atau rasa panas terbakar saat tubuh Anda bersentuhan dengan sesuatu meskipun sentuhan ringan seperti baju dan juga disertai dengan timbulnya gelembung - gelembung berisi cairan yang mirip dengan cacar air.
+Itulah sekilas info mengenai cacar air, Semoga penyakit Cacar air anda sembuh dengan Resep obat alami tradisional untuk penyakit cacar air diatas. Selamat Mencoba.
+
+                \n" />
+
+        </LinearLayout>
+    </ScrollView>
+
+</LinearLayout>

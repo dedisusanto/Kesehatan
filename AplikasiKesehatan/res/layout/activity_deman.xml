@@ -1,0 +1,51 @@
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:paddingBottom="@dimen/activity_vertical_margin"
+    android:paddingLeft="@dimen/activity_horizontal_margin"
+    android:paddingRight="@dimen/activity_horizontal_margin"
+    android:paddingTop="@dimen/activity_vertical_margin"
+    tools:context="id.STIKOM.kesehatan.DemanActivity" >
+
+    <ScrollView
+        android:id="@+id/scrollView1"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content" >
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:orientation="vertical" >
+
+            <TextView
+                android:id="@+id/textView1"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="Demam berdarah merupakan salah satu penyakit berbahaya yang sudah seharusnya Anda hindari. Demam berdarah ini merupakan penyakit demam akut yang disebabkan oleh virus dengue, yang masuk ke dalam peredaran darah manusia lewat gigitan nyamuk yang dikenal dengan nama Aedes Aegepty.
+Penyakit mematikan ini biasanya ditemukan di daerah tropis dan subtropis, yang kerap menyerang di kala musim penghujan datang. WHO telah memperkirakan bahwa dalam setiap tahunnya ada sedikitnya 50-100 juta kasus infeksi demam berdarah di berbagai belahan dunia.
+Selain menggunakan obat/resep dokter, demam berdarah juga bisa diatasi dengan penggunaan beberapa tanaman obat. Ada beberapa tanaman obat-meskipun masih diperlukan penelitian lanjutan untuk menghasilkan obat yang teruji-yang biasanya digunakan oleh masyarakat untuk mengatasi demam berdarah seperti Temu ireng, Meniran, Jambu biji, Kunyit, dan juga Pepaya gandul.
+Tanaman-tanaman obat tersebut bisa diramu sesuai dengan keahlian dan kecakapan baik dalam bentuk serbuk maupun sirup. Dan berikut merupakan beberapa jenis tanaman obat yang bisa digunakan untuk mengatasi demam berdarah (dan juga khasiat kesehatan lainnya).
+Meniran
+Meniran atau Phyllanthus Urinaria memiliki kandungan yang dapat meningkatkan trombosit darah sehingga sangat baik digunakan sebagai obat alternatif dalam mengatasi demam berdarah dengue (DBD). Di dalam Meniran terkandung zat yang disebut flavonoid yang memiliki manfaat untuk meningkatkan kadar trombosit dalam darah.
+Selain itu, Meniran juga mengandung beberapa senyawa berkhasiat lainnya seperti alkaloid, asam fenolat, tanin, dan triterpenoid. Selain dapat digunakan untuk mengobati demam berdarah, rebusan daun Meniran juga sering dimanfaatkan untuk mengobati berbagai macam penyakit lainnya seperti penyakit hati, penyakit kelamin, obat batuk, anti-diare, sariawan, panas dalam, dan lainnya.
+Kunyit
+Sama halnya dengan Meniran, kunyit atau nama latinnya Curcuma domestica ini juga bermanfaat untuk mengobati demam berdarah. Di samping itu, kunyit juga memiliki khasiat lainnya seperti anti-mikroba, anti-virus HIV, antioksidan, anti-tumor, anti-invasi sel kanker, menghambat perkembangan tumor payudara, dan juga mengobati penyakit pencernaan.
+Pepaya Gandul
+Beberapa kandungan yang dimiliki oleh pepaya antara lain kontinin, miosmin, glikosida, karposid, karpain, papain. Pepaya yang lebih efektif digunakan untuk mengobati penyakit demam berdarah ialah daun Pepaya jantan (Pepaya Gandul).
+Adapun manfaat lainnya dari daun Pepaya (selain untuk pengobatan demam berdarah) yakni untuk obat pencahar, demam malaria, penyakit cacing, merangsang sistem ekskresi empedu serta membantu proses pencernaan.
+Menurut hasil penelitian, kandungan Papain dalam daun Pepaya memiliki efek terapi pada penderita pembengkakan organ hati, kelamin, mata dan usus halus. Adanya pembengkakan organ hati ditemukan pada penderita demam berdarah. Daun Pepaya juga memiliki manfaat sebagai antioksidan, anti-koagulan, dan dapat menyembuhkan luka pada lambung dan usus.
+Temu Ireng
+Temu ireng juga bisa dimanfaatkan untuk mengobati penyakit akibat kerusakan sel-sel hati yang biasanya terjadi pada penderita demam berdarah. Selain itu, Temu ireng memiliki manfaat lainnya seperti untuk mengobati luka lambung dan usus, penyakit asma, batuk, menambah nafsu makan, mencegah terjadinya obesitas, rematik, dan lainnya.
+Jambu Biji
+Sama halnya dengan Meniran, Jambu biji juga mengandung flavonoid yang dapat meningkatkan kadar trombosit dalam darah. Dalam daun Jambu biji terbukti mengandung tanin, minyak atsiri, dan minyak lemak. Dalam buahnya mengandung vitamin C yang tinggi.
+Dalam sejumlah penelitian, terungkap bahwa daun Jambu biji sudah terbukti dapat menghambat aktifitas enzim reverse transcriptase dari virus dengue, kandungan tanin yang mampu menghambat enzim reverse transcriptase maupun DNA polymerase dari virus serta menghambat terjadinya pertumbuhan virus yang berinti DNA maupun RNA.
+Menurut uji klinis, pemberian ekstrak kering daun Jambu biji selama 5 hari bisa mempercepat pencapaian jumlah trombosit >100.000/µl, pemberian ekstrak kering setiap 4-6 jam meningkatkan jumlah trombosit >100.000/µl setelah 12-14 jam, tanpa menimbulkan efek samping yang berarti.
+Anda tak percaya? Cobalah ketika Anda atau orang-orang terdekat di sekeliling yang terkena demam berdarah dengue menggunakan tanaman berkhasiat yang telah disebutkan di atas. Prinsipnya, kalau bisa diobati dengan mudah, kenapa mesti memilih pengobatan yang mahal. Namun,  kalau tak mempan juga, tentu diperlukan campur tangan dokter.
+
+                " />
+
+        </LinearLayout>
+    </ScrollView>
+
+</RelativeLayout>

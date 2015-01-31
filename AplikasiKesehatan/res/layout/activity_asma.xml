@@ -1,0 +1,105 @@
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:paddingBottom="@dimen/activity_vertical_margin"
+    android:paddingLeft="@dimen/activity_horizontal_margin"
+    android:paddingRight="@dimen/activity_horizontal_margin"
+    android:paddingTop="@dimen/activity_vertical_margin"
+    tools:context="id.STIKOM.kesehatan.AsmaActivity" >
+
+    <ScrollView
+        android:id="@+id/scrollView1"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content" >
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:orientation="vertical" >
+
+            <TextView
+                android:id="@+id/textView1"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="Di antara upaya menghilangkan penyakit asma yang sekarang ini banyak dipakai penduduk pada umumnya yaitu penggunaan alat bantu pernapasan atau inheler, namun di sini kami berikan langkah alami dalam menghilangkan penyakit asma. \n\n
+                Sekilas perihal penyakit asma yang disebut juga penyakit bengek, asma merupakan masalah pernafasan yang berbentuk alergis atau sensitif pada suatu hal yang masuk ke dalam tubuh apakah debu atau hawa dingin. Pasien penyakit asma dapat mengalami kesulitan bernafas dan merasa sesak di dada. Biasanynya disertai batuk saat bernafas dan bunyi tinggi tapi terdengar menyempit \n\n
+                Berikut Cara Mengatasi dan Mengobati Penyakit Asma : \n\n
+                1. Alpukat
+Alpukat telah diketahui memiliki kandungan konsentrasi paling tinggi l-glutathione ialah makanan anti-asma yang mampu membuat perlindungan sel, melawan rusak disebabkan radikal bebas, dan detoksifikasi tubuh dari polutan serta zat beresiko lain. l-glutathione dalam alpukat juga bisa menolong peradangan quells sistemik dan melakukan perbaikan kesehatan usus yang rusak. Suatu sistem yang pada gilirannya menolong menghindari penyebab asma.
+
+2. Kubis
+kubis adalah sumber alami vitamin c yang mempunyai kekuatan unik memblokir radikal bebas dan bertanggung jawab pada kontraksi otot polos saluran napas sisi didalam. Kubis juga adalah sumber fitokimia beta-karoten sebagai antioksidan kuat mengurangi tanda-tanda asma atau mencegahnya.
+
+3. Bayam
+Suatu penelitian yang melibatkan 68.535 partisipan wanita menunjukkan bahwa konsumsi tinggi bayam terkait segera dengan menyusutnya resiko asma. Hasil riset ini barangkali didukung oleh fakta bahwa bayam tinggi kandungan vit. c, beta-karoten, vit. e, dan magnesium.
+
+4. Pisang
+Menurut studi yang dilakukan pada tahun 2011 oleh beberapa peneliti dari imperial college london, makan pisang tiap-tiap hari bisa menghindari asma. penelitian tersebut mendapatkan bahwa anak-anak yang makan satu buah pisang 1 hari, alami penurunan risiko tanda-tanda asma layaknya mengi sampai lebih kurang 34 %.
+
+5. Air
+umumnya orang yang didiagnosis dengan asma, biasanya situasinya dikarenakan dikarenakan dehidrasi. menurut beberapa pakar, tanda-tanda asma itu awalannya bermula sebagai peringatan bahwa tubuh memerlukan air. hingga anda butuh memenuhi keperluan air tiap-tiap hari untuk menghindar berkembangnya tanda-tanda asma.
+
+6. Jahe
+jahe yaitu ramuan anti-asma yang kuat, apalagi sebagian orang menyebutkan bahwa manfaatnya tambah baik dibanding obat antihistamin layaknya benadryl saat membersihkan saluran hawa serta menghentikan peradangan.
+
+serat serta karakter antioksidannya bikin jahe bisa jadi obat yang ampuh tanpa menyebabkan dampak samping yang beresiko, yang bermakna safe untuk anda untuk menambahkannya ke didalam makanan sehari-hari serta minuman untuk kesehatan yang baik.
+
+7. Kunyit
+bahan aktif anti-inflamasi didalam kunyit juga bisa menangani peradangan yang bertanggung jawab pada pembengkakan paru-paru serta konstriksi saluran pernapasan sepanjang serangan asma. dikarenakan menolong melebarkan pembuluh darah serta mengendurkan otot, kunyit adalah senjata ampuh saat mencegah kambuhnya tanda-tanda asma.
+
+8. Apel
+apel memiliki kandungan quersetin yang sudah dapat dibuktikan berikan perlindungan yang kuat pada asma. sesuatu studi dari eropa mendapatkan bahwa wanita hamil yang konsumsi sekurang-kurangnya empat apel per minggu, 53 % lebih rendah pada risiko melahirkan anak dengan asma.
+Langkah Lain Cara Menyembuhkan Penyakit Asma : 
+1. Konsumsi kopi
+ seseorang yang konsumsi kopi hangat waktu asma kambuh, bisa menolong seseorang meredakan rasa sesaknya. perihal ini dikarenakan kopi telah banyak diketahui, serta efisien untuk buka saluran hawa yang terhimpit di dada.
+
+2. Menghirup aroma minyak kaya putih
+apabila anda telah rasakan tanda-tanda asma dapat nampak, cepatlah menghirup aroma minyak kayu putih. pasalnya aroma minyak kaya putih bisa menenangkan saraf. hingga bisa menghindar asma kembali kambuh, atau bisa melapangankan tarikan nafas anda waktu asma kambuh.
+
+3. Meminum jus daun kemangi serta madu
+langkah lain agar bisa menangani serangan asma, anda dapat konsumsi jus daun kemangi yang digabung dengan madu. perihal ini sudah dapat dibuktikan menolong derita pasien asma serta mengembalikan pernafasan kembali ke situasi normal.
+
+4. Janganlah panik
+janganlah panik apabila asma yang anda punyai terlanjur kambuh, pasalnya panik cuma dapat memperburuk sirkulasi pernafasan anda. sebab itu, didalam kondisi layaknya itu, disarankan terus tenang serta mulai perlahan menghirup oksigen dari hidung serta menghembuskan napas melewati mulut. perihal ini butuh dikerjakan supaya situasi anda dapat jauh tambah baik. sesaat, waktu situasi telah membaik, anda bisa segera menghubungi dokter atau menelpon seseorang untuk menghendaki pertolongan.
+
+5. Menjauhi area yang sesak serta berdebu
+bila seseorang alami serangan asma, langkah paling baik yaitu untuk pergi ke tempat terbuka. tujuannya supaya anda dapat bernafas dengan bebas, tak tahu sembari duduk atau berdiri.
+
+6. Geser ke area yang hangat
+terkadang, hawa dingin juga menyebabkan asma seseorang kambuh, lantas cepatlah geser ke area hawa yang lebih hangat atau lembab. tujuannya supaya bisa meringankan sesak nafas anda dikarenakan asma, atau menghindar asma kambuh lagi.
+
+7. Kurangi serta mengelola stres.
+stres yaitu factor lain yang bisa bikin asma lebih jelek. untuk menolong mengelola stres, sebagian metode layaknya pijat, meditasi, olahraga teratur, serta yoga bisa dicoba.
+
+8. Mendapatkan olahraga yang pas.
+latihan aerobik baik dikerjakan oleh orang yang hidup dengan asma. latihan ini meliputi joging atau jalan pada pagi hari.
+tetapi, janganlah terlalu berlebih saat melakukan olahraga. olahraga terlalu berlebih dapat bikin tubuh kelelahan yang bisa menyebabkan serangan asma. tanyakan dengan dokter tentang type serta intensitas latihan yang pas.
+
+9. Memelihara sanitasi yang baik di lebih kurang area tinggal.
+orang yang hidup dengan asma mesti berusaha bikin lingkungan rumah sebersih barangkali.
+yakinkan kamar mandi bersih, tidak lembab, atau ditumbuhi jamur. yakinkan juga semua ruangan rumah memperoleh ventilasi yang cukup.
+
+10. Jauhi semprotan insektisida.
+seorang pasien asma mesti hindari semprotan insektisida serta pestisida yang bisa mengganggu saluran pernapasan. bila pingin membasmi serangga di rumah, pakai langkah lain tak hanya memakai racun serangga. semprotan racun serangga cuma dapat menyebabkan serangan asma
+
+11. Imbuhkan penyaring hawa pada ac.
+debu dapat jadi penyebab asma. debu yang beterbangan waktu ac dihidupkan dapat jadi problem tersendiri untuk pasien asma. yakinkan untuk menempatkan filter hawa pada ac untuk memperoleh hawa yang bersih dari debu.
+
+12. Kerjakan latihan pernapasan.
+studi bagaimana bernapas dalam-dalam juga bisa menolong menangani masalah asma.
+kesusahan bernapas adalah di antara efek serangan asma serta studi bagaimana mengelola problem ini dapat sangat menolong.
+
+13. Menambah mengonsumsi makanan yang kaya vit. a, b6, b12, vit. c, e, serta omega-3.
+membangun sistem kekebalan tubuh dengan makanan kaya nutrisi layaknya dijelaskan diatas dapat menolong kurangi derita serta tingkat kekambuhan asma.
+
+14. Berhenti merokok serta jauhi asap rokok.
+asap rokok dapat jadi penyebab asma. lantas, berhentilah merokok serta jauhi asap rokok.
+
+15. Hewan peliharaan.
+bila menderita asma, seseorang barangkali pingin mengambil keputusan untuk tidak memelihara hewan peliharaan di rumah. namun bila telah terlanjur memilikinya, yakinkan melindungi rumah bersih terlebih dari bulu hewan peliharaan yang bisa menyebabkan asma" />
+
+        </LinearLayout>
+    </ScrollView>
+
+</RelativeLayout>

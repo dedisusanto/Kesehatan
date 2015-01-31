@@ -1,0 +1,54 @@
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:paddingBottom="@dimen/activity_vertical_margin"
+    android:paddingLeft="@dimen/activity_horizontal_margin"
+    android:paddingRight="@dimen/activity_horizontal_margin"
+    android:paddingTop="@dimen/activity_vertical_margin"
+    tools:context="id.STIKOM.kesehatan.GagalGinjalActivity" >
+
+    <ScrollView
+        android:id="@+id/scrollView1"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content" >
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:orientation="vertical" >
+
+            <TextView
+                android:id="@+id/textView1"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="Cara Mengobati Penyakit Ginjal Secara Alami
+
+Mengobati penyakit ginjal secara alami di zaman sekarang ini solusi tepat untuk mengobati suatu penyakit selain tidak memerlukan biaya yang mahal seperti pengobatan medis bisa menekan efek samping yang biasanya muncul setelah pengobatan dengan bahan kimia, penyakit ginjal juga bisa di obati secara alami yang bahan-bahannya bisa kita dapatkan dengan mudah. Oke, baca sampai lanjut untuk mengetahui cara mengobati penyakit ginjal secara alami.
+
+
+
+Fungsi ginjal adalah bekerja membuang sampah sisa metabolisme yang terjadi pada tubuh manusia juga secara sistematis membuang cairan yang berlebih dari dalam tubuh sebanyak 750 ml sampai 1500 ml perhari, bila ginjal tidak berfungsi atau gagal ginjal sisa metabolisme yang tidak di keluarkan akan menjadi racun dalam tubuh kita.
+Tanda-tanda penyakit ginjal
+Mengobati penyakit ginjal secara alami  harus mengetahui penyakit  ginjal yang di deritanya, gagal ginjal terbagi menjadi dua yaitu gagal ginjal akut dan gagal ginjal kronik, gagal ginjal akut  timbul secara tiba-tiba bisa di lihat dengan hari atau minggu bisa cepat di sembuhkan sedangkan gagal ginjal kronik timbul secara perlahan menahun butuh pengobatanyapun menahun atau seumur hidup.
+Tanda-tanda gagal ginjal akut : nyeri pinggang yang sangat sampai tidak tertahankan, bengkak pada mata, bengkak kaki, nyeri saat buang air kecil dan sedikit merah atau keluar darah, sering buang air kecil.
+Tanda-tanda gagal ginjal kronik : mual, muntah, badan bengkak-bengkak, lemas tidak ada tenaga, nafsu makan berkurang, gatal, sesak nafas, wajah pucat atau anemia, kejang pada otot dan mudah memar.
+Penyebab-penyebab penyakit ginjal
+Mengobati penyakit ginjal secara alami  perlu mengetahui penyebabnya, penyakit ini disebabkan  oleh berbagai macam penyakit yang mendasari gangguan atau kondisi yang menyebabkan kerusakan ginjal seperti : obstruksi, infeksi, keganasan, peradangan, kelainan bentuk, menelan racun, suplai darah yang berkurang ke ginjal penyebab meliputi : Hipertensi, diabetes yang merusak ginjal dari waktu ke waktu, kanker ginjal, penyalah gunaan obat, over dosis obat-obatan, alkohol, rokok.
+Bahan-bahan alami untuk mengobati penyakit ginjal
+•         Alang-alang
+Ambil 120 g alang-alang segar lalu rebus dengan 3 gelas air hingga tersisa 1 gelas dan bagilah menjadi 3, minum 3 kali sehari.
+•         Daun sukun
+Daun sukun kering sebanyak 15 g lalu seduh dengan iar mendidih sebanyak 1 gelas, diamkan selama 15 menit lalu saring dan tambah madu secukupnya di minum 2 kali sehari selama 10 hari, selama pengobatan jangan mengkonsumsi bayam, daun singkong, daun dan buah pepaya, daging merah, jeroan dan kangkung.
+•         Daun kumis kucing
+Ambil 60 g kumis kucin di tambah 30 g daun sendok segar, 30 g rumput mutiara segar rebus dengan 4 gelas iar hingga tersisa 2 gelas lalu saring dan minum 3 kali sehari.
+•         Semangka
+Perbanyaklah makan buah semangka terutama yang bagian putihnya dan minum air putih minimal sehari 8 gelas.
+Sebaiknya anda mengurangi makan yang mengandung  protein, garam dan fosfat, makanan yang mengandung kalium dan karbohidrat seperti kentang , jagung, pasta dan ubi-ubian, daging kambing, ayam, ikan, hati, keju, udang dan telor, pisang, jeruk, alpukat, seledri, pepaya kembang kol dan buncis hindarilah  makanan yang di awetkan seperti ikan asin, cornet, buah + sayur dalam kaleng, keju dan susu karena bisa memperparah penyakit ginjal.
+
+                " />
+
+        </LinearLayout>
+    </ScrollView>
+
+</RelativeLayout>

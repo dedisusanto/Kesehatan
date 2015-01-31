@@ -1,0 +1,58 @@
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:paddingBottom="@dimen/activity_vertical_margin"
+    android:paddingLeft="@dimen/activity_horizontal_margin"
+    android:paddingRight="@dimen/activity_horizontal_margin"
+    android:paddingTop="@dimen/activity_vertical_margin"
+    tools:context="id.STIKOM.kesehatan.AsamActivity" >
+
+    <ScrollView
+        android:id="@+id/scrollView1"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content" >
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:orientation="vertical" >
+
+            <TextView
+                android:id="@+id/textView1"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="Cara mengobati asam urat secara alami  perlu mengetahui penyebab penyakit yang sedang di deritanya adapun penyebabnya adalah mengkonsumsi zat-zat yang mengandung purin secara berlebihan, zat purin ini banyak di hasilkan dari daging-dagingan. Purin yang terkandung dalam daging akan di rubah dan di susun kembali menjadi protein-protein tubuh, inilah cara tubuh memperoleh gizi dari daging, proses pengubahan purin ini melibatkan enzim HGPRT. Jika tubuh kekurangan atau mengalami defisiensi enzim ini jumlah purin dalam tubuh akan menumpuk, purin yang tidak di terpakai pada akhirnya akan di ubah menjadi asam urat dalam jumlah besar.
+
+Secara alami asam urat berada dalam darah sebagai hasil samping pemecah sel, karena tubuh memecah dan membentuk sel baru secara teratur, faktor luar terutama asupan makanan atau minuman ke dalam tubuh, makanan yang mengandung karbohidrat, protein dan selulosa yang masuk kedalam tubuh akan melalui proses kimiawi untuk menghasilkan energi, jika sumber energi terlalu banyak mengandung purin maka asam urat akan menumpuk.
+
+Gejala-gejala penyakit asam urat
+Mengobati asam urat secara alami juga perlu mengetahui gejala-gejala penyakit asam urat, gejalanya adalah sebagai berikut : sendi terasa nyeri, kesemutan, bahkan sampai bengkak dan berwarna merah, biasanya terasa nyeri di pagi dan malam hari secara berulang-ulang. Biasanya yang di serang di daerah jari kaki, tangan, lutut, tumit, pegelangan tangan dan siku, bila sudah parah persendian akan terasa sangat sakit saat akan bergerak.
+
+Pantangan bagi penderita asam urat
+
+Mengobati asam urat secara alami  sebaiknya memperhatikan pantangan-pantanganya agar tidak memperparah penyakit ini atau menghindarinya selagi masa pengobatan agar bisa mencapai kesembuhan adapun pantanganya adalah sebagai berikut : jeroan seperti babat, usus paru dan lain-lain, abon, dendeng, makan kalengan, dading sapi, kambing, kuda, bebek, kacang kedelai, kacang tanah, kacang hijau, emping, kubis, bayam, kangkung, buncis, daun singkong, daun pepaya, es krim, keju, telur makanan yang banyak mengandung protein dan lemak.
+
+Oke, sekarang bagaimana cara mengobati penyakit asam urat
+Mengobati asam urat secara alami /  tradisional  sebaiknya mengkonsumsi air putih yang banyak karena air putih dapat membantu mengeluarkan kristal asam urat dari dalam tubuh dan juga konsumsilah kentang, yoghurt, pisang, jeruk, trawberry, buah naga, belimbing wuluh, jahe, sereh, labu kuning, sawi putih,  tomat dan makanan yang mengandung karbohidrat seperti nasi, singkong, ubi dan roti.
+Anda bisa menggunakan bahan-bahan sebagai berikut : 
+
+
+•         Ubi jalar merah
+200 g ubi jalar merah + 5 butir cengkeh + 1 buah biji pala + 1 ruas jari kayu manis + 15 g jahe merah + 5 butir kapolaga + 10 butir merica dan gula merah secukupny lalu rebus dengan air 1 ½ L air hingga menjadi ½ L air lalu minum airnya 2 kali sehari dan ubinya juga bisa di makan.
+
+•         Pare
+1 buah pare mentah buang bijinya lalu cuci bersih dan potng-potong rebus dengan 2 gelas hingga menjadi 1 gelas lalu minum airnya sehari 1 kali.
+
+•         Daun salam
+Ambil 10 lembar daun salam segar rebus dengan 2 gelas air hingga menjadi 1 gelas lalu minum 2 kali sehari.
+
+•         Tekokak dan leunca
+Tekokak dan leunca bisa kita masak jadikan sayur dan makan secukupnya usahakan 2 hari sekali.
+
+                " />
+
+        </LinearLayout>
+    </ScrollView>
+
+</RelativeLayout>

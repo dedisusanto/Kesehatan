@@ -1,0 +1,90 @@
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:paddingBottom="@dimen/activity_vertical_margin"
+    android:paddingLeft="@dimen/activity_horizontal_margin"
+    android:paddingRight="@dimen/activity_horizontal_margin"
+    android:paddingTop="@dimen/activity_vertical_margin"
+    tools:context="id.STIKOM.kesehatan.MaagActivity" >
+
+    <ScrollView
+        android:id="@+id/scrollView1"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content" >
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:orientation="vertical" >
+
+            <TextView
+                android:id="@+id/textView1"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="Penyakit Maag atau gastritis merupakan penyakit yang terjadi pada gangguan lambung. Tingkatnya asam lambung dalam waktu yang lama akan beresiko Penyebab Penyakit Maag terjadi pada radang lambung atau tukak lambung sehingga penderita akan mengalami rasa sakit pada lambung dan hulu hati yang biasanya disertai rasa mulas dan perih.
+
+Nyeri dan Perih datangnya tiba-tiba dan langsung spontan hilang. Batu empedu atau batu ginjal yang menyebabkan penyakit tersebut berhenti tiba-tiba.
+
+Sakit maag ini sering ditemukan di masyarakat, hal ini terjadi karena cendrungnya salah mengatur waktu dan pola makan yang benar. 
+
+Adapun Penyebab dari Penyakit Maag adalah sebagai berikut:
+1.	Makanan Goreng
+Sebagian besar makanan yang mengandung minyak sangat tinggi sekali lemak yang terkandung. Untuk itu, penyakit maag bisa saja muncul bagi seseorang yang sering mengkosumsi gorengan. 
+ 
+2.	Makan Tidak Teratur
+Jika anda selama ini makan selalu siang dan tanpa sarapan, atau juga sering makan 1 kali sehari atau menunggu waktunya lapar dapat menyebabkan penyakit ini datang.
+ 
+3.	Kafein
+Kafein seperti kita ketahui bisa menenangkan, tapi jika terlalu sering mengkosumsi tanpa makan nasi, maka perut biasanya akan berbunyi seperti kelaparan.
+
+Selain dari makanan di atas, ada beberapa lagi salah satunya penyebab maag.
+
+•	Stres
+•	Kelelehan
+•	Kurang tidur
+•	Merokok
+ Penyakit maag bisa datang pada saat penderita tidak tepat waktu makan. Beberapa obat maag banyak bisa anda jadikan pereda maag, tapi inti dari obat ini adalah untuk menetralisir asam lambung sehingga tidak terjadi penumpukan asam lambung pada dinding lambung.
+
+Obat yang bisa jadi Cara Mengatasi Penyakit Maag adalah sebagai berikut:
+
+•	Simetidin
+•	Antasida
+•	Proton pump inhibitor
+•	Pankreatin
+•	Ranitidin
+•	Cytoprotective Agent
+
+Jika anda tidak punya uang terlalu berlebihan dan masih ingin menggunakan obat alami. Silakan baca berikut ini caranya.
+
+
+Cara Pertama
+
+1.	Siapkan 2 jari tangan kunyit lalu cuci dengan bersih
+2.	Kunyit diparut dan ditambah air matang
+3.	Diperas menggunakan kain bersih
+4.	Hasil perasan didiamkan dan ambil air beningya, atau juga bisa anda minum langsung.
+5.	Minumlah 2 kali sehari yaitu pagi sebelum makan dan malam sebelum tidur.
+
+Cara Kedua
+
+1.	Ambil 8 lembar daun jabu biji yang masih segar
+2.	Lalu rebus dengan 1,5 liter air sampai mendidih, kemudian saring ambil airnya.
+3.	Dimiun 3 kali sehari, yaitu pagi, siang, dan sore hari.
+
+Cara Ketiga
+
+1.	Siapkan kunyit 2 jari telunjuk atau sesuai dengan kebutuhan yang akan anda minum
+2.	Lalu diparut kunyit tersebut.
+3.	Direbus dengan air 2 gelas hingga tersisa 1 gelas atau sesuaikan dengan kebutuhan dengan perbandingan 2:1
+4.	Lalu disaring dan dinginkan air kunyit yang sudah di rebus tadi.
+5.	Minum 2 kali sehari yaitu pagi sebelum makan dan malam sebelum tidur.
+6.	Tapi, jika anda punya madu. Sebaiknya tambah madu untuk tambah hasil yang lebih baik.
+Bila obat di atas tidak berefek pada Penyakit Maag anda, silakan anda kunjungi dokter untuk mengetahui masalah maag anda lebih jelansya, Penyebab dan Cara Mengatasi Penyakit Maag sudah kami bahas di atas, dan perlu diketahui bahwa maag tidak bisa sembuh total. Jadi, hindarilah masalah-masalah yang bisa menyebabkan penyakit mag datang.
+
+                " />
+
+        </LinearLayout>
+    </ScrollView>
+
+</RelativeLayout>

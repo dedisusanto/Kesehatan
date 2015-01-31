@@ -1,0 +1,65 @@
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:paddingBottom="@dimen/activity_vertical_margin"
+    android:paddingLeft="@dimen/activity_horizontal_margin"
+    android:paddingRight="@dimen/activity_horizontal_margin"
+    android:paddingTop="@dimen/activity_vertical_margin"
+    tools:context="id.STIKOM.kesehatan.CampakActivity" >
+
+    <ScrollView
+        android:id="@+id/scrollView1"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content" >
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:orientation="vertical" >
+
+            <TextView
+                android:id="@+id/textView1"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="CARA MUDAH ALAMI MENGOBATI CAMPAK 
+Satu lagi penyakit menular yang sering menyerang anak-anak terutama anak yang kurang gizi, yaitu penyakit campak bahkan bayi yang tidak mendapatkan imunisasi yang baik sangat beresiko terkena campak sehingga harus di lakukan cara mengobati campak dengan cara yang benar.
+Selain anak-anak, penyakit campak ternyata juga bisa menyerang orang dewasa, terutama remaja dan dewasa muda yang belum mendapatkan imunisasi kedua, sehingga di perlukan juga cara pengobatan campak dengan tepat dan pada postingan ini akan di bahas mengenai ramuan herbal alami untuk mengobati penyakit campak, yang terbukti tanpa efek samping dan murah karena menggunakan bahan alami dan mudah di temukan di sekitar rumah kita.
+Penyebab penyakit campak adalah sejenis virus bernama Paramiksovirus, penyakit campak ini bisa menular yaitu melalui percikan ludah dari penderita. Masa inkubasi berkisar antara 10 sampai 14 hari sebelum gejala muncul.
+Hari ini akan saya sampaikan 2 ramuan herbal sebagai obat alternatif untuk mengobati penyakit campak:
+Gejala atau tanda penyakit campak :
+-Pada tubuh keluar bintik-bintik kecil
+-Bersin-bersin dan ingusan.
+-Gatal
+-Demam.
+-Meta merah berair dan sensitif dengan cahaya.
+RAMUAN OBAT HERBAL UNTUK CAMPAK (1)
+Bahan:
+-Biji buah nangka (Artocarpus heterophyllus)
+-Air
+Cara membuat obat:
+-Rebus biji buah nangka hingga mendidih
+-Saring air rebusan dan tiriskan
+-Ramuan siap di gunakan
+Cara pengobatan campak:
+-Minum ramuan sehari 2 kali, pagi dan sore.
+-Lakukan secara rutin.
+OBAT HERBAL UNTUK PENYAKIT CAMPAK (2)
+Bahan:
+-Daun asam muda (Tamarindus indica)
+-Kunyit ( Curcuma domestica)
+Cara membuatnya:
+-Tumbuh hingga halus daun asam muda dan kunyit secukupnya.
+-Ramuan siap di gunakan sebagai obat penghilang gatal akibat. penyakit campak.
+Cara menggunakan obat ini:
+-Balurkan ramuan pada tubuh penderita.
+-Lakukan secara rutin.
+Dua resep herbal alami tentang cara mengobati penyakit campak di atas dapat kamu coba satu persatu, dan rasakan efek yang maksimal, mudah mudahan tips cara mengobati campak ini bisa membantu anda yang sedang menderita penyakit campak.
+Semoga bermanfaat.
+
+                " />
+
+        </LinearLayout>
+    </ScrollView>
+
+</RelativeLayout>

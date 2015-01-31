@@ -1,0 +1,48 @@
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:paddingBottom="@dimen/activity_vertical_margin"
+    android:paddingLeft="@dimen/activity_horizontal_margin"
+    android:paddingRight="@dimen/activity_horizontal_margin"
+    android:paddingTop="@dimen/activity_vertical_margin"
+    tools:context="id.STIKOM.kesehatan.AmandelActivity" >
+
+    <ScrollView
+        android:id="@+id/scrollView1"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content" >
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:orientation="vertical" >
+
+            <TextView
+                android:id="@+id/textView1"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="Amandel atau tonsil adalah dua buah kelenjar getah bening di kedua sisi belakang tenggorokan. Amandel adalah bagian dari sistem kekebalan tubuh yang mengandung sel-sel antibodi untuk menjebak dan membunuh bakteri dan virus patogen dalam perjalanan memasuki tubuh. 
+Radang amandel (tonsillitis) adalah infeksi pada amandel yang kadang-kadang mengakibatkan sakit tenggorokan dan demam. Radang amandel (tonsilitis) disebabkan oleh infeksi virus dan bakteri. Penyakit yang sering menyerang anak-anak ini ditandai dengan demam tinggi, sakit kepala, dan rasa nyeri saat menelan. Selain itu, jika anak membuka mulut akan terlihat tonsil yang membesar dan memerah. Untuk anak dengan radang amandel sebaiknya menghindari minuman air dingin dan bersoda usahakan minum air hangat sesering mungkin.
+Secara klinis peradangan ini ada yang akut (baru), ditandai dengan nyeri menelan (odinofagi), dan tidak jarang disertai demam. Sedangkan yang sudah menahun biasanya tidak nyeri menelan, tapi jika ukurannya cukup besar (hipertrofi) akan menyebabkan kesulitan menelan (disfagia).
+Ada banyak virus yang dapat menyebabkan tonsilitis, yang paling umum adalah virus Epstein-Barr dan virus Coxsackie. Di antara bakteri yang menyebabkan tonsilitis, kelompok streptokokus A adalah yang paling umum.
+Berikut ini Paket Suplemen TIENS untuk Radang Amandel (tonsilitis) terdiri dari:
+ 	Muncord Capsules (Isi: 100 kapsul/botol)
+Dosis : 2 x 2 kapsul/hari, diminum sebelum makan
+Fungsi : Sebagai antibiotik alami untuk melawan bakteri, meningkatkan imunitas tubuh dan mengurangi peradangan.
+Harga :@ Rp 446.000
+ 	
+ 	Chitin Chitosan Capsules (Isi: 100 kapsul/botol)
+Dosis : 2 x 2 kapsul/hari, diminum sesudah makan
+Fungsi : Menghilangkan racun pada leher dan mencegah radang amandel.
+Harga :@ Rp. 407.000
+ 
+Perhatian: Suplemen Tiens bukan pengganti obat dokter, melainkan sebagai pelengkap terapi medis. Beri jeda waktu antara penggunaan produk Tiens dengan obat dokter sekitar 90 menit. Hindari konsumsi makanan yang goreng dan berminyak. Muncord tidak dianjurkan untuk anak-anak, ibu hamil, dan menyusui.
+Tips: Konsumsi makanan sehat dan bergizi seimbang setiap hari. Olahraga teratur. Istirahat cukup (8 jam/hari). Berpikir positif.
+
+" />
+
+        </LinearLayout>
+    </ScrollView>
+
+</RelativeLayout>

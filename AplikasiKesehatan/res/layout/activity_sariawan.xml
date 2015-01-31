@@ -1,0 +1,51 @@
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:paddingBottom="@dimen/activity_vertical_margin"
+    android:paddingLeft="@dimen/activity_horizontal_margin"
+    android:paddingRight="@dimen/activity_horizontal_margin"
+    android:paddingTop="@dimen/activity_vertical_margin"
+    tools:context="id.STIKOM.kesehatan.SariawanActivity" >
+
+    <ScrollView
+        android:id="@+id/scrollView1"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content" >
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:orientation="vertical" >
+
+            <TextView
+                android:id="@+id/textView1"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="Sariawan merupakan sebuah gejala dimana bagian bibir terluka karena tidak sengaja tergigit gigi ataupun bibir tertabrak benda keras seperti tertabrak dinding dan sebagiannya.
+
+
+Sariawan sendiri tidak diinginkan oleh setiap manusia karena akan menemui sebuah kesusahan seperti kesusahan dalam makan, berbicara, dan lain lain. Sariawan ini dapat disebut sebut sebagai penyakit yang menjengkelkan.
+
+lalu bagaimana cara menyembuhkan sariawan ??
+
+Banyak cara untuk mengobati sariawan ini, dan kali ini saya akan mengulas untuk mengobati sariawan secara alami dan mudah.
+
+
+1. Berkumur Menggunakan Air Garam.
+Untuk cara yang pertama silahkan di coba dengan berkumbur dengan air hangat yang telah di campur dengan garam secukupnya, dan silahkan dipraktekkan selama 1 hari 3 kali.
+
+2. Memakan Buah Yang Memiliki Kandungan Vitamin C.
+Memakan buah yang memiliki kandungan vitamin C sangat ampuh dalam menyembuhkan sariawan. Adapun beberapa buah bervitamin C adalah jeruk.
+
+3. Bawang Putih dan Pepaya.
+Tempelkan bawang putih dan pepaya yang sudah dipotong di area yang terserang sariawan.
+
+4. Meminum Obat Tradisional / Jamu Untuk Mengobati Sariawan.
+Banyak sekali jamu yang berkhasiat untuk mengobati sariawan secara cepat dan mudah. Anda dapat mencoba salah satunya untuk menyembuhkan sariawan yang menyerang anda..
+                " />
+
+        </LinearLayout>
+    </ScrollView>
+
+</RelativeLayout>

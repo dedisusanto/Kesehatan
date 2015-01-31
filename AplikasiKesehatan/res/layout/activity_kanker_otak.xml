@@ -1,0 +1,66 @@
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:paddingBottom="@dimen/activity_vertical_margin"
+    android:paddingLeft="@dimen/activity_horizontal_margin"
+    android:paddingRight="@dimen/activity_horizontal_margin"
+    android:paddingTop="@dimen/activity_vertical_margin"
+    tools:context="id.STIKOM.kesehatan.KankerOtakActivity" >
+
+    <ScrollView
+        android:id="@+id/scrollView1"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content" >
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:orientation="vertical" >
+
+            <TextView
+                android:id="@+id/textView1"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="Kanker otak merupakan sebuah tumor yang menyerang otak sehingga kesehatannya pun terganggu. Jika otak sudah tak sehat, maka organ lain akan ikut-ikutan terganggu dan akhirnya tak jarang manusia yang mengalami kematian karena penyakit ini. Tumor otak bisa menyerang kita kapan saja dan dimana saja, tapi soal usia biasanya penyakit ini menyerang seseorang yang telah dewasa.
+
+Kanker otak lebih suka disebut sebagai ‘tumor otak’ oleh dokter sebab tidak selalu berujung kematian. Tapi dalam beberapa studi kasus tumor otak jinak ketika tumbuh akan menekan bahkan menghancurkan jaringan otak normal lainnya sehingga bisa berakibat fatal seperti kelumpuhan yang akan dialami oleh pengidap.
+
+
+Gejala Kanker Otak
+
+Kanker otak bisa Anda kenali dari beberapa gejala namun tidak mudah untuk dideteksi karena target serangan berada pada otak yang merupakan organ penting dalam tubuh yang tak terlihat dari luar. Walau bagaimanapun Anda harus mengetahui gejalanya karena bisa saja suatu saat Anda akan terserang, maka dari itu waspadai beberapa indikasi yang bisa menentukan seseorang apakah tengah merasakan gejala kanker otak atau tidak.
+
+Beberapa gejala kanker otak yang umum dijumpai adalah sebagai berikut:
+
+•	Sering mengalami sakit kepala
+•	Berbeda dengan pusing, rasa sakit yang timbul seperti kepala tertekan dalam waktu cukup lama dan menyerang pengidap secara berulang-ulang.
+•	Mudah mual. Calon pengidap biasanya merasa mual.
+•	Tubuh lemas. Pengidap kanker otak sering mengeluh karena tubuhnya lemas. Untuk itu Anda wajib waspada jika sering lemas meski tidak sedang mengerjakan pekerjaan berat.
+•	Sulit berjalan. Saat melangkahkan kaki tubuh terasa sempoyongan dan ingin pingsan. Hal ini disebabkan karena pengontrol aktivitas tubuh dalam otak terganggu oleh keberadaan sel-sel kanker.
+•	Sulit mendengar dan melihat. Bisa melihat dan mendengar namun kesusahan sebab pengidap akan mengalami penurunan daya dengar dan daya lihat. Tanda-tanda ini semakin mengerikan dan parah seiring bertambahnya sel kanker yang menggerogoti otak.
+•	Mati rasa di kaki dan tangan. Akan terjadi gangguan saraf pada kedua organ tubuh yaitu kaki dan tangan sehingga sering mengalami mati rasa.
+
+
+Penyebab Kanker Otak
+
+Tumor otak tumbuh dalam kepala bisa disebabkan oleh beberapa faktor, namun tidak sepenuhnya dikenali. Namun, dalam beberapa kasus biasanya tumor ini tumbuh akibat terjadinya kerusakan genetika seperti pada kasus neurofibromatosis, sindrom Turcot dan sebagainya. Para peneliti membuahkan hasil pendapat bahwa paparan radiasi otak acap kali meningkatkan risiko terkena kanker otak dalam kurun waktu 20 hingga 30 tahun.
+
+
+Cara Mencegah Kanker Otak
+
+Disini akan dikupas juga mengenai tindakan apa yang mesti Anda lakukan agar tumor yang akan tumbuh di otak akan tercegah. Hal ini diharapkan bisa mengurangi angka kematian seseorang akibat penyakit ini, berikut ini tips menghindari dan mencegah risiko terkena kanker otak:
+
+1. Usahakan untuk menjaga kepala Anda agar tidak terbentur pada benda yang keras karena bisa membahayakan kesehatan otak dan menambah risiko terserang kanker otak. Untuk itu jangan lupa gunakan helm saat berkendara.
+2. Jangan terlalu sering menggunakan benda dengan radiasi tinggi seperti handphone karena aliran sinyal yang melintasi otak dengan level tertentu bisa menyebabkan perubah sel abnormal. Untuk itu, ketika tidur usahakan untuk mematikan ponsel Anda atau pada smartphone dengan OS Android bisa menjadikan mode pesawat.
+3. Jauhi bahan yang mengandung karsinogenik seperti minyak goreng yang digunakan untuk menggoreng secara berulang-ulang, maka dari itu ganti secara bertahap.
+4. Perbanyak konsumsi makanan yang kaya serat dan biasakan untuk menjauhi makanan yang berlemak.
+5. Konsumsi juga buah-buahan segar yang memiliki kandungan antioksidan seperti kurma, jeruk, kismis, stroberi, buah plum dan anggur merah sebab kandungan antioksidan mampu melancarkan peredaran darah pada saraf otak sehingga bisa menghindari terjadinya penyempitan atau penyumbatan pada pembuluh darah.
+
+Kanker otak merupakan penyakit yang berbahaya dan tak pandang bulu ingin menjangkiti siapa saja. Maka dari itu Anda harus melek kesehatan agar tidak mengidap penyakit yang mengerikan seperti ini, biasakan untuk bergaya hidup sehat dan rajin ke dokter untuk mengecek kondisi.
+" />
+
+        </LinearLayout>
+    </ScrollView>
+
+</RelativeLayout>

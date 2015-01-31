@@ -1,0 +1,48 @@
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:paddingBottom="@dimen/activity_vertical_margin"
+    android:paddingLeft="@dimen/activity_horizontal_margin"
+    android:paddingRight="@dimen/activity_horizontal_margin"
+    android:paddingTop="@dimen/activity_vertical_margin"
+    tools:context="id.STIKOM.kesehatan.DiareActivity" >
+
+    <ScrollView
+        android:id="@+id/scrollView1"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content" >
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:orientation="vertical" >
+
+            <TextView
+                android:id="@+id/textView1"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="Diare adalah hal yang sangat mengganggu aktivitas. Anda harus keluar masuk WC untuk buang air. Selain itu perut akan terasa sangat sakit bagaikan terlilit dan tentu saja memberikan kesan yang tidak baik bagi anda.
+
+Diare terkadang disebabkan oleh makanan pedas dan juga cuaca yang dingin. Saat terserang diare banyak obat yang ditawarkan oleh berbagai produk tapi tidak semuanya dapat ampuh seperti yang diinginkan. Kadang diare kita masih berlangsung dan juga sangat lama berhentinya.
+                Berikut adalah cara ampuh mengobati diare sahabatDokter agar dapat cepat berhenti.
+
+1. Min
+5. Minum teh
+
+Untuk menenangkan perut yang nyeri dan perih, anda bisa mengkonsumsi berbagai jenis teh mulai dari teh hitam, jahe, teh raspberry, chamomile, oolong hingga teh hijau. Anda bisa meminum teh tersebut setelah selesai makan. Bila perlu campur teh dengan larutan lemon.
+
+6. Minum Cuka Apel
+Bila anda bosan minum teh saat harus mengatasi diare dengan cepat, manfaatkan saja cuka apel,. Caranya anda bisa mencampur beberapa tetes cuka apel ke dalam jus atapun air putih biasa. Minumkan kepada pasien diare secara berkala hingga diare mampet.
+
+7. Ramuan kunyit 
+Bahan alami lain yang bisa Anda gunakan adalah kunyit. Kunyit memang sudah banyak dikenal orang untuk menyembuhkan beberapa penyakit, seperti diabetes melitus, maag, disentri, diare, dan lain sebagainya. Jika kunyit ingin Anda gunakan untuk mengobati diare, maka perlu dicampur beberapa bahan lainnya. Anda perlu menyiapkan kunyit 1/2 jari, rasuk angin 1/2 sendok, ketumbar 3 biji, buah kayu ules 1 biji, dan daun tawas 1 helai. Campurkan semua bahan tersebut dan tambahkan air sebanyak 115 ml. Rebus hingga mendidih kemudian disaring. Anda bisa meminumnya pada pagi dan siang hari sebanyak 100 ml.
+
+8. Ramuan dari beras ketan 
+Beras ketan juga bsia Anda guankan untuk mengatasi diare. Siapkan 100 gram beras ketan dan 1 jari kunyit. Cara membuatnya, Anda harus menggoreng tanpa minyak sampai hangus. Lalu, bakarlah kunyit sampai hangus juga. Setelah itu, tumbuk kedua bahan tersebut hingga menjadi halus. Anda bisa menyeduh ramuan tersebut dengan air panas. Ambil satu sendok makan untuk sekali seduh dan bisa diminum 3 kali sehari.
+                " />
+
+        </LinearLayout>
+    </ScrollView>
+
+</RelativeLayout>

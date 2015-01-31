@@ -1,0 +1,45 @@
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:paddingBottom="@dimen/activity_vertical_margin"
+    android:paddingLeft="@dimen/activity_horizontal_margin"
+    android:paddingRight="@dimen/activity_horizontal_margin"
+    android:paddingTop="@dimen/activity_vertical_margin"
+    tools:context="id.STIKOM.kesehatan.RematikActivity" >
+
+    <ScrollView
+        android:id="@+id/scrollView1"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content" >
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:orientation="vertical" >
+
+            <TextView
+                android:id="@+id/textView1"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="saat ini memang sedang banyak dicari, pasalnya penderita asam urat dan juga rematik semakin banyak. Apakah Anda juga merupakan penderita penyakit-penyakit ini, jika iya maka Anda tidak boleh menganggap remeh penyakit ini.
+Anda harus segera mencari jalan yang tepat bagaimana agar penyakit ini dapat terobati. Tidak menutup kemungkinan, penyakit ini akan dapat membahayakan hidup Anda jika dibiarkan begitu saja. Pemilihan obat tradisional memang tepat, lebih aman dibandingkan obat berbahan kimia.
+Walaupun asam urat dan rematik bukanlah penyakit yang sama, beberapa obat tradisional berikut dapat digunakan untuk mengatasi keduanya. Pada dasarnya, asam urat dan rematik memang bukanlah penyakit yang sama.
+Asam urat adalah penyakit yang juga merupakan rematik, tetapi jika rematik maka belum tentu termasuk asam urat. Jadi asam urat adalah jenis dari rematik, berikut adalah beberapa obat tradisional yang dapat digunakan untuk mengatasi rematik. Bagi Anda yang memiliki asam urat ataupun rematik maka simak dengan baik sedikit ulasan berikut.
+1. Jahe
+Jahe memang memiliki banyak manfaat, obat herbal ini sangat baik untuk menjaga kesehatan. Jika digunakan sebagai obat tradisional rematik dan asam urat, maka caranya yaitu dengan menyiapkan jahe sebanyak 2 ibu jari. Jahe tersebut kemudian dipotong-potong dan juga sedikit diremukkan.
+Rebus jahe yang sudah diremukkan tersebut dengan menggunakan air 1 gelas dan juga sedikit gula dan jika ada tambahkan sedikit madu murni. Jika sudah matang, maka air tersebut dapat diminum dan ramuan ini dapat diminum setiap hari secara teratur agar hasil yang diberikan maksimal.
+2. Cengkeh
+Untuk mengatasi rematik dan juga asam urat, cengkeh juga dapat digunakan sebagai obat tradisional. Caranya cukup mudah yaitu dengan menumbuk cengkeh yang juga dicampur dengan jahe, takarannya 1 sama. Ramuan ini hanya digunakan untuk bagian luarnya saja, di bagian yang terasa sakit. Oleskanlah ramuan ini secara rutin agar hasilnya maksimal.
+3. Akar pepaya gantung
+Obat ini memang lebih dikhususkan untuk penyakit rematik, caranya yaitu dengan menyediakan 5 potong akar pepaya. Kemudian cuci hingga bersih, untuk ukurannya yaitu sekitar jari. Setelah itu, potong kecil-kecil dan tambahkan 3 sendok makan lengkuas yang sudah dihaluskan.
+Rebus bahan-bahan tersebut dengan menggunakan 4 gelas air, rebus hingga yang tersisa yaitu sekitar 3 gelas. Tambahkan pula gula aren, sedikit saja. Ramuan ini dapat diminum sehari 3 kali dan dalam sekali minum yaitu sekitar setengah gelas.
+4. Kulit manggis
+Kulit manggis, diiris tipis dan dijemur hingga kering. Setelah itu, masukkan kedalam gelas dan seduh dengan menggunakan air panas. Tunggu sampai air berubah warna, kemudian minum air tersebut setiap hari.
+Itulah sedikit ulasan yang dapat disampaikan mengenai cara mengatasi asam urat dan rematik menggunakan cara tradisional. Semoga ulasan obat tradisional asam urat dan rematik dapat bermanfaat untuk Anda semua.
+                " />
+
+        </LinearLayout>
+    </ScrollView>
+
+</RelativeLayout>

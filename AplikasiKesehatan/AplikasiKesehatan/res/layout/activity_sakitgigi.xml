@@ -1,0 +1,60 @@
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:paddingBottom="@dimen/activity_vertical_margin"
+    android:paddingLeft="@dimen/activity_horizontal_margin"
+    android:paddingRight="@dimen/activity_horizontal_margin"
+    android:paddingTop="@dimen/activity_vertical_margin"
+    tools:context="id.STIKOM.kesehatan.SakitgigiActivity" >
+
+    <ScrollView
+        android:id="@+id/scrollView1"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content" >
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:orientation="vertical" >
+
+            <TextView
+                android:id="@+id/textView1"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="Sakit gigi memang adalah salah satu penyakit yang tidak mengenakan, karena terasa seperti ditusuk tusuk pada area Gusi dan sekitarnya. Biasanya penyakit ini menjangkit seseorang yang suka memakan manisan dan tidak menggosok giginya.
+
+
+Cara Tradisional Mengobati Sakit Gigi Dengan Mudah
+
+Anjuran dari dokter untuk menyikat gigi adalah 2 kali dalam sehari, pagi dan malam. Kalau lebih semakin bagus untuk perkembangan gigi anda kedepannya.
+
+Kalau anda terkena penyakit sakit gigi, jangan khawatir karena setiap penyakit tentu memiliki penawarnya, berikut penawar sakit gigi dengan cara tradisional yang sudah terbukti dapat mengobati sakit gigi anda dengan mudah.
+
+
+Berikut cara cara tradisionalnya :
+
+1. Mengkonsumsi Makanan Bervitamin C.
+
+Mengkonsumsi makanan yang memiliki kandungan vitamin C dipercaya dapat mengurangi nyeri pada sakit gigi serta dapat membuat penyembuhan yang cepat pada area yang sakit.
+
+
+2. Memakai Bawang Putih.
+
+Bawang putih dipercayai oleh banyak masyarakat mampu menghilangkan rasa sakit pada gigi dengan cara sebagai berikut :
+
+Potong halus 1 siung bawang putih, kemudian tambahkan sedikit garam. Kunyah bawang tersebut di area yang sakit dan tak lama kemudian rasa sakit di gigi Anda akan menghilang secara perlahan.
+
+
+3. Menggunakan Minyak Cengkeh.
+
+Untuk mengurangi rasa sakit pada gigi, oleskan minyak cengkeh ke lubang gigi yang mengalami kerusakan. Cengkeh dinyatakan efektif untuk meredakan sakit pada gigi. Selain itu, manfaat dari cengkeh sangat banyak salah satunya dapat menangkal infeksi pada gigi.
+
+
+Setelah melakukan Cara diatas, jangan lupa setiap hari menggosok gigi ya, dan kurangi makan makanan manis.
+                " />
+
+        </LinearLayout>
+    </ScrollView>
+
+</RelativeLayout>

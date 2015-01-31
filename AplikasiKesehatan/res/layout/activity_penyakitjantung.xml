@@ -1,0 +1,63 @@
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:paddingBottom="@dimen/activity_vertical_margin"
+    android:paddingLeft="@dimen/activity_horizontal_margin"
+    android:paddingRight="@dimen/activity_horizontal_margin"
+    android:paddingTop="@dimen/activity_vertical_margin"
+    tools:context="id.STIKOM.kesehatan.PenyakitjantungActivity" >
+
+    <ScrollView
+        android:id="@+id/scrollView1"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content" >
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:orientation="vertical" >
+
+            <TextView
+                android:id="@+id/textView1"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="Penyakit jantung  termasuk pembunuh nomer satu di dunia banyak orang yang rela mengeluarkan banyak uang untuk penyembuhan penyakit ini, selain dengan cara penanganan medis penyakit jantung ini bisa di sembuhkan dengan cara yang alami tanpa perlu mengeluarkan banyak uang asal kita sabar dan telaten mengikuti langkah-langkah yang akan saya tulis di bawah ini, penyakit jantung terbagi menjadi beberapa macam seperti : jantung koroner, jantung rematik, jantung hipertensif dan jantung bawaan yang di akibatkan kelainan paru.
+Penyebab-penyebab penyakit jantung
+
+
+Jantung rematik penyebabnya adalah pola hidup yang kurang bersih yang membuat kuman streptococus hemoliticus menyerang bagian katup jantung.
+Jantung hipertensif penyebabnya adalah komplikasi yang di timbulkan tekanan darah yang tinggi sehingga jantung kecapaian dan bengkak darah tinggi juga mengganggu pembuluh darah koroner di jantung yang perlu penangananya melalui operasi.
+Jantung merupakan pusat organ tubuh yang mengendalikan segala macam syaraf melalui darah, cara kerja jantung adalah memompa darah melalui jaringan pembuluh darah ke seluruh bagian tubuh.
+Mengobati penyakit jantung secara alami perlu mengetahui apa penyebab yang bisa mendatangkan penyakit jantung sehingga kita bisa menghindari atau mencegahnya sebelum  penyakit ini bersarang di tubuh kita adapun salah satu penyebabnya adalah diet yang buruk yang berlebihan tanpa memperhatikan asupan gizi yang di butuhkan oleh tubuh, merokok, kurang olah raga dan stres.
+
+Beberapa tips mengobati penyakit jantung secara alami
+
+Mengobati penyakit jantung secara alami bisa di mulai dengan pencegahan datangnya penyakit jantung seperti :
+
+- Jalan 30 menit setiap hari dapat menurunkan resiko penyakit jantung 30 %, kenali tekanan darah lakukan agar mencapai 115/75, olah raga teratur, kurangi lemak di perut karena akan menutupi organ-organ penting ketika lemak perut berkurang tekanan darah yang di butuhkan akan menurun drastis.
+
+- Makan kacang-kacangan 250 g setiap hari akan meningkatkan kadar kolesterol baik dan dapat menurunkan radang, kacang dapat menyehatkan jantung karena memiliki asam lemak omega 3, tinggi protein dan serat.
+
+- Saos tomat, usahakan makan 10 sdm saos tomat dalam seminggu, saos tomat penuh dengan kalium yang bisa menurunkan tekanan darah pilihlah saos biasa yang sehat.
+
+- Strowbery, Buah strobery mengandung anti peradangan yang dapat menurunkan resiko serangan penyakit jantung dan kangker dapat memperbaiki vaskuler.
+Mengobati penyakit jantung secara alami bisa menggunakan bahan-bahan sebagai berikut:
+
+•         Sukun
+Daun sukun  ini mengandung flavonoid dan sitosterol yang berkhasiat untuk jantung dan pembuluh darah yang mamapu menurunkan kolesterol dan mampu menghambat akumulasi pada dinding pembuluh darah aorta, caranya ambil 1 lembar daun sukun tua yang baru metik dari pohon lalu rebus dengan 5 gelas air hingga air berkurang tinggal setengahnya lalu tambah lagi dengan 5 gelas air rebus lagi hingga setengahnya lalu saring dan minum airnya untuk sehari lakukan hal ini sampai seminggu.
+
+•         Kunyit
+Kunyit ini  berkhasiat melarutkan kadar kolesterol dalam darah yang menyumbat pembuluh darah, caranya parut 4 ruas jari kunyit lalu seduh parutan kunyit tadi dengan air panas ½ gelas selama 15 menit lalu saring dan minum sarinya bisa di tambah dengan gula jawa atau madu secukupnya.
+
+•         Alpukat
+Buah ini dapat memperlambat penyerapan karotenoid khususnya betakarotin dan likopen sangat baik untuk kesehatan jantung karena mampu menurunkan LDL atau kolesterol buruk sambil terus bekerja menaikan kadar HDL dalam tubuh.
+
+•         Ubi jalar
+Ubi jalar mengandung zat fitonutrien yang mampu memperlancar sel-sel tubuh yang rusak dan melancarkan peredaran darah, menekan gula darah agar tetap normal dan efektif menjauhkan penyakit jantung.
+                " />
+
+        </LinearLayout>
+    </ScrollView>
+
+</RelativeLayout>

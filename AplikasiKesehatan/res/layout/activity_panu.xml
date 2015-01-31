@@ -1,0 +1,43 @@
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:paddingBottom="@dimen/activity_vertical_margin"
+    android:paddingLeft="@dimen/activity_horizontal_margin"
+    android:paddingRight="@dimen/activity_horizontal_margin"
+    android:paddingTop="@dimen/activity_vertical_margin"
+    tools:context="id.STIKOM.kesehatan.PanuActivity" >
+
+    <ScrollView
+        android:id="@+id/scrollView1"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content" >
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:orientation="vertical" >
+
+            <TextView
+                android:id="@+id/textView1"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="Cara Menghilangkan Panu dengan Permanen sebenarnya banyak cara serta obat-obatan panu, tapi ternyata tidak juga memberikan hasil yang memuaskan. Penyakit kulit yang disebabkan oleh jamur Pityrosporum ovale ini timbul pada permukaan kulit dengan ciri-ciri bercah putih, dan biasanya timbul pada bagian punggung, leher, dada, dan lengan. Panu akan muncul pada permukaan kulit bagi penderita tersebut kurangnya memperhatikan kebersihan tubunya, misal disebakan oleh keringat yang berlebihan dan jarang mandi.
+
+
+Sangat malu rasanya jika kita lepas baju dan ternyata penuh dengan panu, apalagi dilihat oleh teman atau kerabat. 
+
+Penyakit ini, tidak terasa sakit atau bermasalah berat. Tapi, hanya bisa merusak penampilan apalagi panunya menyebar pada bagian wajah. Maka berikut ini bisa anda mencobanya cara penghilang panu secara permanen dengan menggunakan bahan alami.
+1.	Lengkuas 
+Selain penambah bumbu makanan, lengkuas bisa juga dimanfaatkan untuk menghilangkan panu. Caranya, ambil lengkuas dan potong dengan beberapa bagian. Lalu gosok-gosokkan pada permukaan kulit yang terkena panu. Untuk menghasilkan yang maksimal maka lakukanlah cara ini setiap sehabis mandi.
+2.	Bawang Putih 
+Sama halnya seperti di atas, selain untuk penyedap makanan. Bawang putih bisa menghilangkan panu. Pertama silakan anda ambil bawang dan buang kulitnya. Lalu potong dengan bagian-bagian kecil lalu gosokkan pada bagian panu. Lakukanlah dengan cara seruntin mungkin sehabis mandi.
+3.	Belerang 
+Tumbuk dan haluskan dengan merata. Lalu campurkan dengan jeruk nipis dan minyak kepala. Lalu oleskan pada bagian kulit yang bermasalah. Lakukanlah hal ini dengan secara serius dan rutin.
+Lakukanlah dari salah satu cara di atas, dan jika semuanya sudah anda coba dengan semaksimal mungkin. Maka, akan mendapatkan hasil yang sempurna yaitu, panu akan hilang dengan permanen. Selamat mencoba !
+                " />
+
+        </LinearLayout>
+    </ScrollView>
+
+</RelativeLayout>

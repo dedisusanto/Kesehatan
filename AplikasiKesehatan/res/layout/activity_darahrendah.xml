@@ -1,0 +1,48 @@
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:paddingBottom="@dimen/activity_vertical_margin"
+    android:paddingLeft="@dimen/activity_horizontal_margin"
+    android:paddingRight="@dimen/activity_horizontal_margin"
+    android:paddingTop="@dimen/activity_vertical_margin"
+    tools:context="id.STIKOM.kesehatan.DarahrendahActivity" >
+
+    <ScrollView
+        android:id="@+id/scrollView1"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content" >
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:orientation="vertical" >
+
+            <TextView
+                android:id="@+id/textView1"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="Tekanan darah rendah atau hipotensi sama halnya dengan tekanan darah tinggi. Jika tekanan darah rendah di abaikan dan dibiarkan, maka penyakit tersebut akan bertambah parah, meski saat ini masyarakat umum masih membiarkan dan menyepelekan hal tersebut.
+
+Dehidrasi dimana tubuh kita kehilangan cairan. Dan jika dibiarkan berlarut maka akan terasa sering sakit kepala, mual dan ingin muntah. Bila cairan tersebut tidak diganti maka akan berdampak pada hipotensi atau tekanan darah rendah. Berikut ini Cara Tradisional Mengobati darah Rendah yang bisa anda jadikan refrensi sebagai membantu tekanan darah yang rendah. Berikut cara-caranya:
+  
+Cara Tradisional Mengobati darah Rendah
+1.	Cara 1
+Ambil daun bayam sekitar 250gr
+Ambil gula aren dan cabe masing-masing 10gr
+Ambil asam jawa 5gr
+Ambil bawang merah 50gr
+dan trakhir 7gr garam. 
+Lau rebus daun bayam tersebut dan jangan terlalu matang sampai lunak. Dan penggunaannya ditambahkan pada makan waktu siang dan bersama beras merah. Lakukan hal ini dengan setiap siang hari sebagai lauk pauk.
+ 
+2.	Cara 2
+Jika anda sedang merebus ayam, silakan anda ambil kaldunya sekitar 1 gelas.
+Ambil kuning telur ayam kampung
+Dan garam dapur (sebagai penghilang amis)
+Setelah semua bahan tersedia, sekarang silakan campurkan kuning telur dan garam dengan air kaldu ayam, lalu diminum 1 kali sehari
+" />
+
+        </LinearLayout>
+    </ScrollView>
+
+</RelativeLayout>

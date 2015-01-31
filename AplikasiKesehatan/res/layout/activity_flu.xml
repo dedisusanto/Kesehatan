@@ -1,0 +1,54 @@
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:paddingBottom="@dimen/activity_vertical_margin"
+    android:paddingLeft="@dimen/activity_horizontal_margin"
+    android:paddingRight="@dimen/activity_horizontal_margin"
+    android:paddingTop="@dimen/activity_vertical_margin"
+    tools:context="id.STIKOM.kesehatan.FluActivity" >
+
+    <ScrollView
+        android:id="@+id/scrollView1"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content" >
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:orientation="vertical" >
+
+            <TextView
+                android:id="@+id/textView1"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="Seiring dengan semakin majunya zaman, cara pengobatan suatu penyakit pun makin maju dan canggih. Namun, ternyata bukan hanya praktik pengobatan modern saja yang terus bergeliat karena rupanya pengobatan secara tradisional juga terus digalakkan. Begitu juga dengan teknik pengobatan penyakit hepatitis yang bukan hanya bisa dilakukan dengan cara-cara modern di rumah sakit atau klinik, namun juga bisa dengan cara tradisional dengan menggunakan obat-obatan berbahan alami.
+Sebetulnya untuk mencegah supaya penyakit hepatitis tidak menyerang tubuh, cukup dengan menyuntikkan vaksinasi khusus hepatitis. Namun, sekalipun kita sudah diberikan vaksin hepatitis, dalam beberapa kasus, masih saja ada orang yang terkena hepatitis karena berbagai faktor seperti tempat tinggal yang kotor/tidak terawat atau karena menjalankan pola hidup yang tidak sehat.
+Virus hepatitis juga akan mudah menjangkiti orang-orang yang dalam kesehariannya akrab dengan alkohol, konsumsi bahan-bahan kimia, dan lainnya.
+Jika sudah terkena virus hepatitis ini, apapun jenisnya—hepatitis A, B, C, E, dan lainnya—maka jangan sampai Anda biarkan karena akan terus berkembang sampai akhirnya merusak hati dan menyebabkan kematian.
+Selain dengan pengobatan medis, hepatitis juga bisa disembuhkan dengan melakukan pengobatan tradisional. Tentu saja berbeda dengan melakukan pengobatan secara modern yang melibatkan obat-obatan kimia.
+Pengobatan terapi dengan menggunakan herbal tidak akan menyebabkan efek samping. Dan berikut merupakan cara untuk mengobati penyakit hepatitis dengan metode alami.
+Kunyit
+Mungkin selama ini Anda hanya mengenal Kunyit sebagai bumbu dapur yang berfungsi untuk penyedap masakan. Namun, tahukah Anda khasiat besar dibalik Kunyit?
+Ternyata, Kunyit mengandung minyak atsiri dan kurkumin yang sangat bermanfaat untuk menyembuhkan berbagai macam penyakit termasuk di dalamnya berbagai jenis hepatitis.
+Selain hepatitis, penyakit yang dapat disembuhkan dengan terapi Kunyit antara lain seperti tifus, diabetes melitus, usus buntu, diare, keputihan, perut mulas, memperlancar ASI, dan lainya.
+Minyak atsiri yang terkandung di dalam Kunyit memiliki kemampuan sebagai anti mikroba, anti HIV, anti-tumor, dan juga berguna menghambat perkembangan sel kanker payudara.
+Cara pembuatan ramuannya sangatlah mudah karena Anda hanya cukup menyiapkan Kunyit secukupnya untuk kemudian diparut. Campurkanlah hasil parutan dengan satu sendok madu dan air hangat. Setelah diperas dan disaring, minumlah air perasannya sebanyak 3 kali sehari sampai sembuh.
+Temulawak
+Temulawak juga memiliki kandungan berupa kurkumin dan xanthorhiza rox yang bermanfaat untuk menyembuhkan aneka jenis penyakit, termasuk hepatitis.
+Kurkumin merupakan zat yang sangat bermanfaat sebagai antioksidan dan bersifat hepatotoksik di dalam tubuh. Beberapa khasiat lain Temulawak yakni dapat menurunkan kadar lemak darah dan meningkatkan daya imun tubuh.
+Mahkota Dewa
+Di dalam Mahkota dewa, terdapat banyak kandungan zat seperti tanin, flavonoid, fenol, lignan, minyak atsiri, dan lainnya yang sangat bermanfaat untuk menyembuhkan aneka jenis penyakit, termasuk hepatitis.
+Caranya, ambil buah Mahkota dewa yang sudah matang. Kemudian, cuci bersih dan keringkan. Setelah itu, rebuslah dan remas airnya untuk diminum oleh penderita hepatitis.
+Buah Noni
+Buah Noni, atau yang lebih dikenal dengan nama Mengkudu, juga memiliki kandungan yang sangat bermanfaat untuk pencegahan dan pengobatan hepatitis.
+Daya antioksidan di dalamnya sangat baik untuk mencegah serangan virus hepatitis dan virus penyakit lainnya. Caranya, ambil beberapa buah Noni yang sudah masak untuk dibersihkan dan diparut.
+Kemudian, peras airnya dan minum sebanyak 2 kali sehari pada pagi dan sore. Atau, jika merasa repot dan tak ada waktu untuk mempersiapkan dan mencuci buah Noni, Anda dapat membeli langsung produk Noni juice  dari kami dengan khasiat yang sama.
+Bukan hanya aman karena bebas dari bahan-bahan kimia sekalipun dikonsumsi dalam jangka panjang, terapi herbal juga membuat irit kantong Anda. Meski begitu, memeriksakan kondisi penyakit Anda secara berkala ke dokter, tetap dianjurkan seraya Anda mengonsumsi herbal.
+                
+                " />
+
+        </LinearLayout>
+    </ScrollView>
+
+</RelativeLayout>

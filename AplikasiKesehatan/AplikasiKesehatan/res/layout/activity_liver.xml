@@ -1,0 +1,51 @@
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:paddingBottom="@dimen/activity_vertical_margin"
+    android:paddingLeft="@dimen/activity_horizontal_margin"
+    android:paddingRight="@dimen/activity_horizontal_margin"
+    android:paddingTop="@dimen/activity_vertical_margin"
+    tools:context="id.STIKOM.kesehatan.LiverActivity" >
+
+    <ScrollView
+        android:id="@+id/scrollView1"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content" >
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:orientation="vertical" >
+
+            <TextView
+                android:id="@+id/textView1"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="Cara Mengobati Penyakit Liver Secara Alami
+
+Cara mengobati penyakit liver secara alami dengan menggunakan rempah-rempah yang ada di sekeliling kita, penyakit liver atau hepatitis yang kita kenal dengan penyakit kuning harus diwaspadai karena kalau dibiarkan tanpa pengobatan akan berdampak negatif bisa mengakibatkan kematian, ada banyak penyebab timbulnya penyakit liver seperti karena keturunan, kekurangan gizi waktu masih didalam kandungan, kelainan sistem metabolisme atau kerusakan proses dalam pencernaan, inveksi atau adanya bakteri, minuman alkohol atau sering meminum minuman yang bersoda, pernah melakukan operasi bagian dalam tubuh dan efek samping dari obat-obatan kimia yang penggunaanya secara terus-menerus dan rokok.
+
+Gejala-gejala penyakit liver yang harus anda ketahui
+Mengobati penyakit liver secara alami harus mengenali gejala atau perubahan pada penderita penyakit liver itu sendiri adapun gejala-gejalanya adalah sebagai berikut : kulit penderita mengalami perubahan dengan warna kuning, berat badan menurun secara drastis, hilang selera makan, mengalami mual pada perut, tidak enak badan mengalami lemah, lesu, loyo dan tidak bergairah, cepat lelah, sering mengalami pusing atau sakit kepala otot rasanya pada pegal, mimisan, stres, keputihan yang berlebih pada wanita serta mengalami pelengkungan pada kuku, bau badan dan mulut yang menyengat.
+
+Begini cara alami mengobati penyakit liver
+Mengobati penyakit liver secara alami bisa dengan mengkonsumsi sayuran dan buah-buahan segar seperti : kol atau kubis,  wortel, buncis, brokoli, apel, tomat, jeruk, jambu biji, pepaya, apukat dan belimbing buah atau manis.
+
+Dalam mengobati penyakit liver secara alami anda juga harus memperhatikan pola makan sehari-hari, sebaiknya konsumsilah makanan yang mengandung banyak vitamin terutama vitamin B6 dan B12, hati dan ikan. 
+
+Mengobati penyakit liver secara alami juga harus memperhatikan makanan yang perlu di hindari, yaitu makanan yang banyak mengandung lemak dan makanan yang di bakar atau di asapin seperti sate dan ayam bakar, usahakan untuk menghindari makanan yang di olah dari bahan sapi, kambing, ayam, cumi-cumi, kepiting, udang dan kerang, buah-buahan juga ada yang perlu dihindari seperti buah nanas, durian, nangka dan belimbing sayur, semua makanan yang perlu dihindari ini kalau sering mengkonsumsinya bisa mengakibatkan kambuh lagi penyakit livernya atau kalau lagi dalam masa pengobatan bisa memperlambat proses kesembuhannya atau bahkan sulit untuk sembuh.
+
+Cara mengobati penyakit liver secara alami dengan menggunakan temulawak :
+
+
+ 
+
+
+Caranya adalah ¼ kg temulawak diiris tipis lalu dikeringkan  usahakan yang berwarna kuning karena khasiatnya lebih banyak di bandingkan dengan yang warna putih ditambah 3 lembar daun sirsak di jemur sampai kering, setelah semua bahan kering lalu di rebus dengan air 4 gelas menjadi 3 gelas saring lalu tambah gula merah secukupnya minun 3 kali sehari sekali minum 1 gelas, lakukan hal ini setiap hari sampai penyakit livernya sembuh sebaiknya berjermurlah pagi hari antara jam 7 sampai jam 9 selama 30 menit jangan melakukan olah raga berat karena akan memperlemah hati.
+" />
+
+        </LinearLayout>
+    </ScrollView>
+
+</RelativeLayout>

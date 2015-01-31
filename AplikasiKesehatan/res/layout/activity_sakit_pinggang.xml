@@ -1,0 +1,74 @@
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:paddingBottom="@dimen/activity_vertical_margin"
+    android:paddingLeft="@dimen/activity_horizontal_margin"
+    android:paddingRight="@dimen/activity_horizontal_margin"
+    android:paddingTop="@dimen/activity_vertical_margin"
+    tools:context="id.STIKOM.kesehatan.SakitPinggangActivity" >
+
+    <ScrollView
+        android:id="@+id/scrollView1"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content" >
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:orientation="vertical" >
+
+            <TextView
+                android:id="@+id/textView1"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="Setelah sebelumnya kita membahas tentang ramuan tradisional untuk mengobati asam urat, kali ini kita beralih dengan penyakit lainnya yaitu sakit pinggang atau dalam bahasa medis disebut low back pain ataulumbago. 
+
+Sakit pinggang bisa disebabkan oleh beberapa faktor. Gangguan pada tulang belakang, otot, ligamen, tendon dan sayraf, hernia diskus, arthritis, keganasan, infeksi di sekitar tulang belakang Anda, penyakit di rongga panggul, perut, dan kelainan bawaam pada tulang belakang dapat menjadi penyebab nyeri pinggang.
+
+
+Obat Sakit Pinggang Tradisional
+
+Berikut ini beberapa ramuan tradisional yang bisa digunakan untuk mengobati sakit pinggang yang Anda derita.
+
+Jahe Merah
+
+Kandungan senyawa kimia dari jahe merah terdiri dari gingerol, zingeron, dan shogaol. Caranya: 25 gram jahe merah segar, 25 gram temu hitam segar, 30 gram akar sawi langit segar, 30 gram daun dewa segar direbus dengan 600 cc air hingga tersisa 300 cc, airnya disaring, diminum hangat-hangat. Lakukan secara teratur.
+
+Daun Dewa
+
+Daun dewa mengandung senyawa flavonoid, saponin, dan minyak atsiri. Caranya: 30 gram daun dewa segar, 30 gram temu lawak segar, 25 gram daun baru china segar direbus dengan 500 cc air hingga tersisa 200 cc, airnya disaring, diminum hangat-hangat. Lakukan secara teratur.
+
+Angco
+
+Buah angco dikenal juga sebagai kurma tiongkok atau kurma cina. Caranya: 10 butir angco, 1 - 3 buah sun boi/kiam boi, 15 gram akar bawang merah segar, 25 gram jahe merah segar direbus dengan 600 cc air hingga tersisa 300 cc, airnya disaring, diminum hangat-hangat. Lakukan secara teratur.
+
+Buah Takokak
+
+Buah takokak yang mirip leunca ini ternyata berkhasiat untuk mengobati sakit pinggang. Caranya: 100 gram buah takokak, 30 gram rambut jagung, 20 gram jahe merah segar, 10 gram adas direbus dengan 600 cc air hingga tersisa 300 cc, airnya disaring, lalu diminum hangat-hangat. Lakukan secara teratur.
+
+Cabe Rawit
+
+Cabai rawit (dibuang tangkainya) + jahe (diiris-iris) masing-masing secukupnya direndam dengan alkohol 75% secukupnya selama 14 hari. Setelah itu air rendaman tersebut dioleskan pada pinggang yang terasa sakit. Lakukan secara teratur.
+
+Bawang Putih
+
+Selain biasa digunakan untuk menyuburkan rambut dan menghilangkan jerawat, bawang putihberkhasiat juga untuk meredakan nyeri, termasuk nyeri pinggang. Caranya: 120 gram jahe merah, 150 gram bawang putih, bubuk cabai secukupnya direndam dengan alkohol 75% secukupnya selama 14 hari. Setelah itu air rendaman tersebut dioleskan pada bagian yang sakit. Lakukan secara teratur.
+
+Akar Ilalang
+
+Mungkin sebagian orang menganggap bahwa ilalang hanya sekedar tanaman pengganggu yang tidak berguna. Namun, jangan menganggap remeh tumbuhan yang satu ini. Untuk pengobatan sakit pinggang, akar dari ilalang bisa dimanfaatkan. Caranya cukup ambil akar ilalang secukupnya lalu direbus sampai mendidih. Setelah dingin, minumlah air rebusan akar ilalang tadi dengan takaran 2 kali sehari.
+
+Kumis Kucing
+
+Sama halnya dengan diatas, kumis kucing juga dipercaya sebagai obat tradisional sakit pinggang yang cukup ampuh. Oleh karena itu, lengkapilah tanaman obat keluarga anda dengan tanaman yang satu ini.
+
+Daun Bakung
+
+Berbeda dengan ilalang dan kumis kucing yang merupakan obat sakit pinggang alami dari dalam, daun bakung adalah obat sakit pinggang untuk penggunaan dari luar. Caranya, ambil beberapa lembar daun bakung lalu dipanggang sampai sedikit layu. Setelah itu olesi daun bakung tersebut dengan menggunakan minyak kelapa. Jika sudah merata, tinggal ditempelkan pada bagian pinggang yang sakit.
+                " />
+
+        </LinearLayout>
+    </ScrollView>
+
+</RelativeLayout>

@@ -1,0 +1,65 @@
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:paddingBottom="@dimen/activity_vertical_margin"
+    android:paddingLeft="@dimen/activity_horizontal_margin"
+    android:paddingRight="@dimen/activity_horizontal_margin"
+    android:paddingTop="@dimen/activity_vertical_margin"
+    tools:context="id.STIKOM.kesehatan.DarahTinggiActivity" >
+
+    <ScrollView
+        android:id="@+id/scrollView1"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content" >
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:orientation="vertical" >
+
+            <TextView
+                android:id="@+id/textView1"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="Cara Cepat Menurunkan Tekanan Darah Tinggi Secara Alami - Tekanan darah tinggi atau hipertensi adalah penyakit naiknya tekanan darah pada pembuluh darah dalam periode waktu yang cukup lama. Kenaikan tekanan darah dapat disebabkan oleh penyempitan pembuluh sehingga menimbulkan timbunan lemak dan zat – zat lain.
+
+Untuk mengetahui apakah seseorang terkena hipertensi atau tidak, dapat diketahui melewati kontrol tekanan darah. Ada dua type pengukuran tekanan darah waktu jantung berkontradiksi, namun diastol yaitu tekanan darah waktu jantung beristirahat atau relaksasi. biasanya, tekanan darah normal manusia yaitu berkisar di antara 90 – 120 untuk sistolik serta 60 – 80 untuk diastolik. bila tekanan darah melebihi angka tersebut, dapat dipastikan terkena hipertensi. kontrol tekanan darah biasanya dikerjakan dokter memakai alat yang dinamakan shpigmomanometer atau yang dikenal dengan tensimeter. hipertensi dapat mengakibatkan penyakit jantung koroner ( pkj ) serta gagal ginjal. adapun tentang factor penyebab hipertensi diantaranya keturunan, usia, pikiran kerap stress, terlampau banyak mengonsumsi garam, jarang berolahraga, dan kegemukan ( obesitas ).
+Langkah-langkah Menurunkan Tekanan Darah Tinggi : 
+Tak ada cara lain yang bisa anda kerjakan selain mengobati dan mencegah faktor pencetus.  
+                \n\n
+                Makanlah buah-buahan kaya seratsetiap hari. Jeruk, apel, dan pisang adalah sebagian buah-buahan yang sangat direkomendasikan untuk pasien darah tinggi. Baca makanan yang berserat tinggi : Sayuran/Makanan yang Berserat Tinggi. Sayuran hijau juga menolong sistem pemulihan tekanan darah tinggi misalkan bayam, brokoli, kacang panjang, dan buncis harus ada pada daftar menu harian.
+
+Lakukan diet tekanan darah tinggi. Pertama, diet konsumsi garam (sodium/natrium). Caranya? Jangan letakkan garam di atas meja makan untuk menghindari tambahan garam pada saat menyantap makanan. di samping itu, tentukan makanan dengan kandungan sodium rendah. Batasi juga mengonsumsi daging dan keju dan jauhi makanan ringan bercita rasa asin. Untuk anda yang hobi mencampurkan saus agar menghentikan kesukaan itu.
+
+Perbanyak mengonsumsi konsumsi suplemen potasium/kalium 2-4 gram / hari. Potasium biasa terdapat dalam buah-buahan maupun sayuran seperti alpukat, melon, pare, labu siam, bligo, labu parang, mentimun, lidah buaya, seledri, bawang putih adalah sederet buah-buahan dan sayur mayur yang berkadar tinggi potasium.
+
+Makanan yang mengandung unsur omega 3 juga dapat menurunkan tekanan darah dan penyembuhan hipertensi pada umumnya yang digabungkan dengan sebagian obat diuretik misalnya tablet hydrochlorothiazide ( hct ) serta lasix ( furosemide ). Obat tersebut adalah golongan obat hipertensi yang bekerja dengan merangsang pengeluaran cairan tubuh melewati urin. ada juga beta-blockers seperti atenolol ( tenorim ) dan capoten ( captopril ). obat-obat tersebut digunakan dalam usaha pengontrolan tekanan darah dengan langkah memperlambat kerja jantung serta memperlebar ( vasodilatasi ) pembuluh darah.
+Cara Menurunkan Tekanan Darah Tinggi secara Alami :
+Bahan alami untuk mengobati darah tinggi ini sesungguhnya murah dan mudah diperoleh, karena merupakan tanaman sayuran yang sehari-hari kita jumpai di dapur. bahan tersebut tidak lain ialah bawang putih dan seledri. ini bukan hanya jalan keluar murah, karena manfaat sayuran penurun darah tinggi ini telah dibuktikan oleh penelitian.
+
+Jus seledri : 
+Seledri mengobati tekanan darah tinggi dengan alami sesungguhnya sudah lama dipakai didalam penyembuhan tradisional china. serta baru-baru ini penelitian sudah membutktikan bahwa minum jus seledri tiap-tiap hari sepanjang satu pekan bisa menolong turunkan tekanan darah. Hal ini di dukung oleh tingginya kalium, mineral serta antioksidan yang ada di dalamnya. Seledri juga diketahui memiliki kandungan senyawa 3-n-butil-phthalide yang berguna untuk merenggangkan atau melebarkan otot-otot dinding arteri hingga memungkinkan darah mengalir lebih lancar. pthalides juga pakar bisa mengurangi hormon stres yang dapat mengakibatkan pembuluh darah mengerut.
+
+Ambillah seledri yang telah dicuci bersih secukupnya bersama air masak satu gelas untuk diblender. Angkat campuran blenderan seledri dan air tadi dan saring. Minum jus seledri yang telah disaring tersebut 1 kali 1 hari sesudah sarapan. tapi ingat, sebelum saat minum dengan teratur jus seledri ini, sebaiknya kenali tensi darah anda. kemudian sesudah anda mengerjakannya selama 1-2 minggu, cek tensi darah anda lagi dan hentikan bila tekanan darah telah kembali normal.
+
+Bawang putih : 
+Memakai bahan alami bawang putih untuk turunkan darah tinggi bukan tanpa alasan, dikarenakan senyawa alisin yang ada pada bawang putih berguna untuk melebarkan serta menghindar pembekuan darah, penyebab berlangsungnya hipertensi. karakter bawang putih yang lain yang baik untuk menghindar darah tinggi yaitu kemampuannya menghancurkan lemak serta turunkan kandungan kolesterol jahat ( ldl ).
+
+Cara mengkonsumsi bawang sebagai penurun darah tinggi : 
+manfaat paling baik dari bawang putih untuk kepentingan ini yaitu mengkonsumsinya waktu masih dalam kondisi fresh. langkahnya, ambillah 3 siung bawang putih yang telah dikupas serta dicuci bersih, tumbuk sampai halus lantas diperas dengan ditambah air secukupnya, lantas airnya diminum. cukup dikerjakan 3 kali 1 hari. atau langkah yang lebih gampang yaitu memakan segera siung bawang putih 3 biji yang telah bersih pastinya, dimakan berbarengan dengan nasi. manfaat paling baik dari bawang putih yaitu ada pada bawang lanang ( laki ), yakni bawang putih yang bersiung tunggal. tetapi bawang lanang ini langka, umumnya ada di antara bawang putih yang lain.
+catatan : bila langkah alami di atas sepanjang 2 minggu tidak bisa turunkan tekanan darah tinggi anda, kemungkinan ada penyebab lain yang perlu diatasi terlebih dulu. karenanya baiknya anda berkonsultasi pada dokter spesialis untuk menangani darah tinggi anda. 
+Berikut tips menghindari tekanan darah tinggi : 
+1. kurangi makanan yang terlampau banyak memiliki kandungan garam ( terlampau asin )
+2. kurangi merokok serta mengkonsumsi alkohol
+3. jauhi pikiran yang terlampau stress
+4. rajin berolahraga
+5. konsumsilah makanan secara seimbang
+6. perbanyak mengkonsumsi buah – buahan dan sayur
+
+                " />
+
+        </LinearLayout>
+    </ScrollView>
+
+</RelativeLayout>

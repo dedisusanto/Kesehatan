@@ -1,0 +1,47 @@
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:paddingBottom="@dimen/activity_vertical_margin"
+    android:paddingLeft="@dimen/activity_horizontal_margin"
+    android:paddingRight="@dimen/activity_horizontal_margin"
+    android:paddingTop="@dimen/activity_vertical_margin"
+    tools:context="id.STIKOM.kesehatan.BatukActivity" >
+
+    <ScrollView
+        android:id="@+id/scrollView1"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content" >
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:orientation="vertical" >
+            
+            <TextView
+                android:id="@+id/txtketeranganpenyakit"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_alignTop="@+id/scrollView1"
+                
+                android:text="\n Cara Cepat Menghilangkan Batuk secara Alami. Saat duduk bersama teman dan andapun batuk-batuk sehingga dengan begitu anda mengacaukan suasana tersebut. Penyakit batuk saat ini masih sering di hiraukan begitu saja, karena penyakitnya terbilang gampang hilang, tapi setidaknya kita mencegah hal tersebut dengan hal-hal yang baik.	
+   
+Tapi, ada juga batuk yang tak kunjung reda. Bahkan saat malam istirahat batukpun datang sehingga membuat suasana istirahat anda bising. Di bawah ini ada ramuan tradisional yang bisa anda jadikan untuk Cara Cepat Menghilangkan Batuk.
+
+Cara Cepat Menghilangkan Batuk
+\n 1.	Jeruk Nipis	
+Peras jeruk dan ambil airnya, anda bisa juga mencampur jeruk nipis dengan madu atau juga dengan kecap untuk lebih mendapatkan manfaat yang komplit. Lalu silakan anda minum air jeruk tersebut 3 kali sehari. 	
+ 
+\n 2.	Daun Sirih	
+Menggunakan daun sirih sebagai obat batuk, sangatlah mudah anda gunakan. Caranya, silakan anda rebus lalu diminum selama 1 kali sehari.	
+ 
+\n 3.	Kunyit
+Silakan ambil kunyit lalu tumbuk, bisa menggunakan susu atau juga madu. Lalu hidangkan dalam 1 gelas dan diminum 1 kali sehari.
+        " />
+
+        </LinearLayout>
+    </ScrollView>
+
+    
+
+</RelativeLayout>

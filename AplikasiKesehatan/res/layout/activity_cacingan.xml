@@ -1,0 +1,80 @@
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:paddingBottom="@dimen/activity_vertical_margin"
+    android:paddingLeft="@dimen/activity_horizontal_margin"
+    android:paddingRight="@dimen/activity_horizontal_margin"
+    android:paddingTop="@dimen/activity_vertical_margin"
+    tools:context="id.STIKOM.kesehatan.CacinganActivity" >
+
+    <ScrollView
+        android:id="@+id/scrollView1"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content" >
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:orientation="vertical" >
+
+            <TextView
+                android:id="@+id/textView1"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="Mengobati Cacingan Pada Anak Secara Alami
+Mengobati Cacingan Pada Anak – Obat Cacingan – Penyakit Cacingan. Bagaimana mengobati anak cacingan dan bagaimana pengobatan cacingan yang benar dan cepat dengan bahan alami ? Keberadaan cacing di dalam perut akan membabwa pengaruh bagi tubuh, terutama anak-anak. Besar kecilnya pengaruh tersebut tergantung dari jenis atau tipe cacing itu sendiri yang meliputi faktor usia cacing, ukuran cacing, dan diorgan bagian mana cacing bersarang pada tubuh kita.
+Jenis cacing ganas seperti cacing pita dan cacing tambang sudah tentu akan menimbulkan masalah lebih besar daripada pengaruh yang ditimbulkan oleh jenis cacing yang tidak ganas. Apalagi jika cacing ganas tersebut masih berusia muda dan berukuran besar. Menderita cacingan sering di indentikan dengan kejangalan yang ditandai dengan adanya penurunan berat badan, nafsu makan berkurang (baca artikel Cara mengatasi anak susah makan). Biasanya juga disertai anak sering rewel, hal itu karena cacing bisa menyebabkan sakit perit dan diare apabila keberadaan cacing tersebut di dalam usus. Namun apabila keberadaan cacing berada pada usus bagian atas dekat hati atau lambung maka akan menyebabkan batuk dan mual pada perut.
+Nah yang harus kita ketahui selalu orang tua adalah gerakan cacing bisa menyebabkan hancurnya kotoran-kotoran yang ada dalam usus yang akhirya usus akan terinfeksi, yang mana hal tersebut bisa menyebabkan ginjal, hati, empedu juga lambung tidak bisa bekerja dengan semestinya, apalagi dengan bertambahnya lendir-lendir yang dikeluarkan oleh tubuh, sehingga akan menyebakan sakit perut, susah makan dan juga diare. Selain itu juga bisa menyebabkan penurunan nafsu makan, dan berat badan, juga berkurangnya imunitas tubuh sehingga menjadi lemah dan rentan terhadap penyakit.
+Gejala Cacingan.
+Tanda-tanda cacingan pada anak memang sulit diketahui sebab sulitnya membedakan antara sakit cacingan dengan sakit lainya yang menimbulkan keluhan sangat mirip dengannya. Hal ini disebabkan karena masalah komunikasi dengan anak kurang baik, selain itu hampir semua keluhan cacingan dan gejalanya juga nampak pada anak-anak yang sedang sakit lainya, seperti batuk-batuk, muntah-muntah, rewel mencret, perut kembung, susah makan dan lainya.
+Ciri-ciri Cacingan.
+Solusi lain untuk mendiagnosa gejala-gejala cacingan pada anak bisa dilakukan dengan melihat struktur kotorannya tatkala berak atau dengan melihat cairanya, tatkala sedang muntah apakah ada cacingnya atau juga telur telurnya. Namun usaha ini juga sangat sulit bagi orang tua yang tidak terbiasa mengontrol kotoran anak-anaknya, karena telur cacing tidak mudah dikenali, apalagi bagi yang belum pernah tahu bentuk dari telur cacing. Nah pedoman dasar mengobati cacingan bisa dikenali melalui efek yang timbul dari cacingan itu sendiri, jika muntahan anak ada cacingnya berarti cacingnya sudah dewasa akan tetapi jika anak hanya mengalami batuk-batuk atau mencret maka cacingnya masih kecil.
+Lantas bagaimana cara mengobati cacingan pada anak dan orang tua ?
+Obat cacing atau pengobatan cacingan bisa dilakukan menggunakan obat-obat dipasaran, namun lebih baik anda menggunakan obat-obatan herbal alami, sebab dalam proses pengobatan cacingan pada anak relatif lebih aman. Cara mengobati anak cacingan bisa menggunakan : Minyak Zaitun, Minyak kelapa murni, Parutan kelapa.
+Cara membuat ramuan : Gunakan parutan kelapa atau minyak kelapa yang dicampur dengan minyak zaitun. Apabila kesulitan mendapatkan minyak Zaitun cukup dengan kelapa atau minyak kelapa saja. Dan perlu anda ketahui metode pengobatan dengan menggunakan minyak kelapa tidak bisa mematikan cacing, akan tetapi hanya mengusir atau mengelurkan cacing disaat berak atau diluar berak saja.
+Obat Cacingan Alami.
+1. Mengobati Cacingan Dengan Wortel.
+Jika anda ingin membasmi cacing dalam perut anda juga bisa menggunakan ramuan dari air perasan wortel, caranya campurkan air perasan wortel dengan santan kental masing-masing berukuran 1 cangkir, beri sedikit garam aduk sampai rata, kemudian minumkan pada anak yang menderita cacingan. Ramuan ini bisa memberantas cacing yang menyerang anak-anak maupun orang dewasa.
+2. Mengobati Cacingan Dengan Kulit Mangga.
+Kulit mangga yang biasanya dibuang begitu saja ternyata dapat dijadikan sebagai obat cacing. Daya antelmintik pada kulit mangga akan membantu mencegah penyakit cacing terutama untuk anak-anak, antelmintik juga sangat ampuh untuk membunuh kuman dan bakteri yang ada di dalam perut.
+Cara membuatnya : Selama kurang lebih 15 menit rebuslah kulit mangga, hal ini akan menjadikan zat antelmintik di kulit mangga keluar. Ambil dan taruhlah dalam gelas air rebusan kulit mangga tersebut kemudian minumlah dengan penuh semangat. Ternyata rebusan kulit mangga ini cukup ampuh membunuh bakteri jahat di dalam perut dan juga larva cacing.
+3. Mengobati Cacingan Dengan Kelapa.
+Bahan yang diperlukan 1/4 butir kelapa dan 1 buah wortel.
+Cara membuat ramuan : Semua bahan diatas cucilah hingga bersih sebelum diparut, campur parutan dengan segelas air matang. Peras, saring dan minumlah sebelum tidur.
+4. Mengobati Cacingan Dengan Akar Delima.
+Bahan yang diperlukan ambil 7 gram akar delima saja.
+Cara membuat ramuan: Akar delima dicuci bersih lalu dipotong kecil. Rebuslah dengan segelas air matang selama 15 menit. Saring kemudian minum airnya sampai habis.
+5. Mengobati Cacingan Dengan Biji Jeruju.
+Bahan yang diperlukan biji jeruju 4-6 butir.
+Cara membuat ramuan : Tumbuklah biji jeruju hingga halus, kemudian seduhlah dengan setengah gelas air panas. Dinginkan sebentar lalu minum saja sampai habis. lakukan hal ini sekali sehari.
+6. Mengobati Cacingan Dengan Krokot.
+Bahan yang diperlukan Krokot Segar.
+Cara membuat ramuan : Krokot dicuci sampai bersih. Langkah selanjutnya adalah merebusnya dengan 600cc air, hingga tersisa 300 cc. Minum air rebusannya selagi masih hangat, dan krokotnya juga dimakan. tapi pancinya jangan. Lakukan secara teratur 2 kali dalam sehari.
+7. Mengobati Cacingan Dengan Biji Pepaya untuk Cacing Gelang.
+Bahan yang diperlukan 2 sendok makan biji pepaya dan Madu
+Cara membuat ramuan : Biji pepaya dikeringkan, kemudian ditumbuk hingga halus. Seduh dengan setengah gelas air dan tambahkan dengan sedikit madu. Minum secara teratur sehari 2 kali.
+8. Mengobati Cacingan Dengan Daun Pepaya Untuk Cacing Kremi.
+Bahan yang diperlukan 1 lembar daun pepaya dan 15 gram akar pohon bunga melati.
+Cara membuat ramuan : Selain biji pepaya, daun pepaya juga bisa digunakan mengobati cacing terutama cacing kremi. Cucilah semua bahan hingga bersih. Rebus semuanya dengan 600cc air, hingga tersisa 300 cc. Minum air rebusannya selagi masih hangat. Lakukan secara teratur 2 kali sehari.
+9. Mengobati Cacingan Dengan Bawang Putih Untuk Cacing Kremi.
+Bahan yang diperlukan bawang putih 3 butir, 30 gram akar pepaya, gula merah secukupnya.
+Cara membuat ramuan : Selain untuk mengusir vampire, bawang putih juga efektif untuk mengobati cacing kremi. Caranya gula merah dipotong dan semua bahan dicuci bersih. Lalu rebus semuanya dengan 600cc air, hingga tersisa 300 cc. Minum air rebusannya selagi hangat. Lakukan secara teratur 2 kali sehari.
+10. Mengobati Cacingan Dengan Bangle.
+Bahan yang diperlukan : 25 gram bangle, 25 gram temu hitam, 10 gram biji ketumbar, 5 buah tangkai daun sirih (diiris-iris tipis).
+Cara membuat ramuan : Rebuslah keseluruhan bahan dengan 600 cc air hingga tersisa 300 cc kemudian diminum selagi hangat, untuk 2 kali minum. Lakukan mengkonsumsi ramuan ini secara teratur 2 kali sehari. 
+11. Mengobati Cacingan Dengan Putri Malu.
+Caranya cukup mudah, cuci 15 – 30 gram tanaman putri malu, rebuslah dalam 3 gelas air sampai hanya tersisa 1 gelas. Setelah dingin, saring kemudian air saringannya diminum pada malam hari sebelum berangkat tidur.
+Peringatan penggunaan ramuan dengan Putri malu :
+• Ingat !! akar putri malu dalam dosis tinggi dapat menyebabkan keracunan juga muntah-muntah.
+• Wanita hamil dilarang meminun rebusan tanaman obat ini karena dapat menyebabkan kematian pada janin yang dikandungnya bahkan bisa menggugurkan kandungan. 
+Pengobatan pada kasus cacingan bisa menimbulkan efek yang berbeda. bisa jadi setelah diobati, cacing akan mati dan keluar bersama kotoran. Jika cacing tidak mati maka akan meyebabkan mencret atau diare (baca artikel Cara mengobati diare) kejadian ini akibat dari kerusakan yang ditimbulkan oleh sicacing yang sedang marah maupun karena obatnya yang kurang cocok. Kemungkinan lain adalah cacing akan keluar dalam keadaan masih hidup, baik saat berak atau saat tidak berak (seperti pengobatan dengan kelapa atau minyak zaitun).
+Bagaimana cara mencegah cacingan ?
+Pencegahan cacingan yang kita lakukan tidak bisa terlepas dari masalah yang berhubungan dengan faktor penyebaran telur-telur cacing. Nah solusi terbaik mencegah cacingan adalah dengan menghindarisumber telur maupun cacing sebisa mungkin. Selalu memelihara kebersihan makanan dan area tempat bermain balita maupun anak-anak. Ajari anak-anak dan balita kita menerapkan pola hidup bersih, cuci tangan sebelum makan menggunakan sabun anti septik, dan yang terpenting jauhkan anak dari permainan menggunakan media tanah, kuku-kuku jari tangan hendaknya dipotong pendek agar tidak bisa menggaruk dubur yang kemungkinan terdapat cacing. Setelah bangun pagi, anak harus segera mencuci tangannya agar telur-telur cacing yang melekap pada jari tangan bisa lepas sehingga tidak melekat pada tangan. Harapan kami bisa anda ambil manfaatnya dari sedikit artikel cara mengobati cacingan.
+
+" />
+
+        </LinearLayout>
+    </ScrollView>
+
+</RelativeLayout>

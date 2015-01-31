@@ -1,0 +1,60 @@
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:paddingBottom="@dimen/activity_vertical_margin"
+    android:paddingLeft="@dimen/activity_horizontal_margin"
+    android:paddingRight="@dimen/activity_horizontal_margin"
+    android:paddingTop="@dimen/activity_vertical_margin"
+    tools:context="id.STIKOM.kesehatan.StrokeActivity" >
+
+    <ScrollView
+        android:id="@+id/scrollView1"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content" >
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:orientation="vertical" >
+
+            <TextView
+                android:id="@+id/textView1"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="Cara mengobati penyakit stroke secara alami
+Cara mengobati stroke dengan bahan alami seperti sayuran dan buah-buahan yang bisa kita komsumsi setiap hari selain bisa mengobati penyakit stroke juga bisa menambah sehat tubuh kita, penyakit stroke merupakan penyakit syaraf yang menyebabkan penderitanya mengalami kelumpuhan karena serangan mendadak pada pembuluh darah otak yang di sebabkan penyumbatan atau pecahnya pembuluh darah dalam otak yang mengakibatkan terganggunnya sistem kerja otak bila tidak segera di tangani bisa menyebabkan kematian. Berikut ini tentang cara mengobati penyakit stroke secara alami yang dapat anda coba.
+
+Gejala-gejala penyakit stroke
+Mengobati stroke harus memperhatikan gejala-gejala yang di alami sipenderitanya seperti ganguan komunikasi atau berbicara tidak jelas, sering buang air kecil yang tidak terkontrol yang mengakibatkan sering kencing di celana, banyak tidur atau inginya tidur terus, gangguan menelan makanan,   kelumpuhan separo atau beberapa bagian tubuh.
+
+Penyebab penyakit stroke 
+Cara mengobati stroke juga perlu mengetahui penyebanya, banyak faktor yang bisa menyebabkan penyakit stroke seperti darah tinggi, merokok, alkohol, narkotika, kurang olah raga, kegemukan, pola makan yang salah atau sering makan makanan yang banyak mengandung kolesterol jahat, stres, penyakit jantung, penyakit diabetes mellitus.
+
+Cara mengobati stroke dengan bahan-bahan alami
+Cara mengobati stroke bisa bisa menggunakan sayuran sehat seperti di bawah ini:
+
+•         Bayam
+Sayur bayam yang mengandung asam folat yang bagus untuk otak dan dapat membatu memperbaiki  kerusakan akibat penyumbatan atau pecahnya pembuluh darah dalam otak.
+
+•         Tauge
+Banyak kandungan vitamin dalam tauge seperti vitamin A, vitamin C dan vitamin E yang dapat membangkitkan sistem kekebalan tubuh, juga mengandung senyawa Fitokimiawi yang berkhasiat melumpuhkan bibit kanker leukemia, usus besar dan pankreas, untuk penyakit jantung dan stroke sebaiknya konsumsilah banyak tauge.
+
+•         Apel
+Buah apel mengandung quercetin yang mampu mengatasi inflamasi yang bisa mengakibatkan pengerasan pembuluh darah, mengkonsumsi 1 buah apel setiap hari dapat mengurangi resiko penyakit stroke hingga 50 %.
+
+•         Pisang
+Sebaiknya konsumsilah pisang setiap hari karena pisang mengandung kalium yang berkhasiat untuk menurunkan tekanan darah.
+
+•         Ubi jalar
+Ubi jalar mengandung Fitonutrien yang mampu melancarkan peredaran darah dan memperbaiki sel tubuh yang rusak.
+
+•         Bunga mawar
+Buga mawar tidak hanya indah di lihat tapi ternyata bisa membatu mengobati penyakit stroke caranya 2 kumtum bunga mawar + 2 kuntum bunga soka + 30 g daun dewa + 25 g temu hitam rebus dengan 3 gelas air hingga menjadi 1 gelas lalu saring dan minum 2 kali sehari, lakukan hal ini setiap hari sampai penyakitnya sembuh.
+
+                " />
+
+        </LinearLayout>
+    </ScrollView>
+
+</RelativeLayout>
